@@ -246,7 +246,7 @@
   <word text="&gt;" break_level="LINE_BREAK"/>
   <word text="&gt;" break_level="NO_BREAK"/>
   <word text="determine" lemma="determine" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1239831.003" break_level="NO_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"   break_level="SPACE_BREAK"/>
   <word text="well" break_level="SPACE_BREAK"/>
   <word text="SSL" break_level="SPACE_BREAK"/>
   <word text="and" break_level="SPACE_BREAK"/>
@@ -461,7 +461,7 @@
   <word text="-" break_level="NO_BREAK"/>
   <word text="WG" break_level="NO_BREAK"/>
   <word text="&gt;" break_level="LINE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="NO_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="NO_BREAK"/>
   <word text="stretch" lemma="stretch" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1294926.001" break_level="SPACE_BREAK"/>
   <word text="to" break_level="SPACE_BREAK"/>
   <word text="maintain" lemma="maintain" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1265437.001" break_level="SPACE_BREAK"/>

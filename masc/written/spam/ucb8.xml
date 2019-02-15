@@ -218,7 +218,7 @@
   <word text="n&#39;t" break_level="NO_BREAK"/>
   <word text="even" break_level="SPACE_BREAK"/>
   <word text="fancy" lemma="fancy" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1246203.010" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"   break_level="SPACE_BREAK"/>
   <word text="I" break_level="SPACE_BREAK"/>
   <word text="hated" break_level="SPACE_BREAK"/>
   <word text="being" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.015" break_level="SPACE_BREAK"/>

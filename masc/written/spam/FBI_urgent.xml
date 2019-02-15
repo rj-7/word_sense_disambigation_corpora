@@ -208,7 +208,7 @@
   <word text="IFCC" break_level="NO_BREAK"/>
   <word text=")" break_level="NO_BREAK"/>
   <word text="on" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.001" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="some" break_level="SPACE_BREAK"/>
   <word text="people" lemma="people" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276782.001" break_level="SPACE_BREAK"/>
   <word text="have" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.034" break_level="SPACE_BREAK"/>

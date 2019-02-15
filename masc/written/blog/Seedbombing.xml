@@ -154,7 +154,7 @@
   <word text="." break_level="NO_BREAK"/>
   <word text="Here" break_level="PARAGRAPH_BREAK"/>
   <word text="&#39;s" break_level="NO_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.001" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="we" break_level="SPACE_BREAK"/>
   <word text="started" break_level="SPACE_BREAK"/>
   <word text="-" break_level="SPACE_BREAK"/>
@@ -428,7 +428,7 @@
   <word text="The" break_level="SENTENCE_BREAK"/>
   <word text="first" break_level="SPACE_BREAK"/>
   <word text="responsibility" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="be" break_level="SPACE_BREAK"/>
   <word text="driving" lemma="drive" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242109.001" break_level="SPACE_BREAK"/>
   <word text="safely" break_level="SPACE_BREAK"/>
@@ -608,7 +608,7 @@
   <word text="it" break_level="SPACE_BREAK"/>
   <word text="to" break_level="SPACE_BREAK"/>
   <word text="see" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.006" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="it" break_level="SPACE_BREAK"/>
   <word text="feels" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
@@ -812,7 +812,7 @@
   <word text="goes" lemma="go" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1251252.001" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
   <word text="but" break_level="SPACE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.001" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="our" break_level="SPACE_BREAK"/>
   <word text="planet" break_level="SPACE_BREAK"/>
   <word text="&#39;s" break_level="NO_BREAK"/>

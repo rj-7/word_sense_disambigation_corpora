@@ -563,7 +563,7 @@
   <word text="up" break_level="SPACE_BREAK"/>
   <word text="a" break_level="LINE_BREAK"/>
   <word text="pattern" lemma="pattern" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276140.001" break_level="SPACE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.005" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="consumer" break_level="SPACE_BREAK"/>
   <word text="now" lemma="now" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272258.001" break_level="SPACE_BREAK"/>

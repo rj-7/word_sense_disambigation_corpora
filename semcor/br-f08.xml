@@ -928,7 +928,7 @@
   <word text="sex" lemma="sex" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1289462.001" break_level="SPACE_BREAK"/>
   <word text="urge" break_level="SPACE_BREAK"/>
   <word text="and" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.001" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV" break_level="SPACE_BREAK"/>
   <word text="to" break_level="SPACE_BREAK"/>
   <word text="use" lemma="use" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1303226.001" break_level="SPACE_BREAK"/>
   <word text="it" break_level="SPACE_BREAK"/>

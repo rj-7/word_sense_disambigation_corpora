@@ -996,7 +996,7 @@
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="city" lemma="city" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1233403.001" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.005" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="burning" lemma="burn" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1229552.001" break_level="SPACE_BREAK"/>
   <word text="can" lemma="can" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1230339.001" break_level="SPACE_BREAK"/>

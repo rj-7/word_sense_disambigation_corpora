@@ -396,7 +396,7 @@
   <word text="He" break_level="NO_BREAK"/>
   <word text="says" lemma="say" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1287486.001" break_level="SPACE_BREAK"/>
   <word text="we" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="meet" lemma="meet" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266934.001" break_level="SPACE_BREAK"/>
   <word text="him" break_level="SPACE_BREAK"/>
   <word text="tonight" break_level="SPACE_BREAK"/>
@@ -1389,7 +1389,7 @@
   <word text="did" lemma="do" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241237.035" break_level="SPACE_BREAK"/>
   <word text="n&#39;t" break_level="NO_BREAK"/>
   <word text="know" lemma="know" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1261363.001" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.001" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="they" break_level="SPACE_BREAK"/>
   <word text="could" lemma="can" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1230339.001" break_level="SPACE_BREAK"/>
   <word text="miss" lemma="miss" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1268412.001" break_level="SPACE_BREAK"/>
@@ -1529,7 +1529,7 @@
   <word text="situation" lemma="situation" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1291020.001" break_level="SPACE_BREAK"/>
   <word text="where" break_level="SPACE_BREAK"/>
   <word text="I" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.014" break_level="SPACE_BREAK"/>
   <word text="doing" lemma="do" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241237.001" break_level="SPACE_BREAK"/>
   <word text="something" break_level="SPACE_BREAK"/>
@@ -1650,7 +1650,7 @@
   <word text="n&#39;t" break_level="NO_BREAK"/>
   <word text="even" break_level="SPACE_BREAK"/>
   <word text="know" lemma="know" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1261363.001" break_level="SPACE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.001" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="to" break_level="SPACE_BREAK"/>
   <word text="start" lemma="start" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1293930.001" break_level="SPACE_BREAK"/>
   <word text="looking" lemma="look" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1264302.001" break_level="SPACE_BREAK"/>
@@ -2115,14 +2115,14 @@
   <word text="you" break_level="SPACE_BREAK"/>
   <word text="tell" lemma="tell" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1297608.001" break_level="SPACE_BREAK"/>
   <word text="me" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.001" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
   <word text="know" lemma="know" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1261363.004" break_level="SPACE_BREAK"/>
   <word text="my" break_level="SPACE_BREAK"/>
   <word text="family" lemma="family" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1246175.001" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
   <word text="and" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.001" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
   <word text="happened" lemma="happen" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253509.001" break_level="SPACE_BREAK"/>
   <word text="to" break_level="SPACE_BREAK"/>
@@ -2148,7 +2148,7 @@
   <word text="time" lemma="time" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1298880.023" break_level="SPACE_BREAK"/>
   <word text="?" break_level="NO_BREAK"/>
   <word text="And" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.001" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="did" break_level="SPACE_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
   <word text="recognize" lemma="recognize" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283463.001" break_level="SPACE_BREAK"/>
@@ -2534,7 +2534,7 @@
   <word text="sure" break_level="SPACE_BREAK"/>
   <word text="that" break_level="SPACE_BREAK"/>
   <word text="we" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.014" break_level="SPACE_BREAK"/>
   <word text="going" lemma="go" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1251252.001" break_level="SPACE_BREAK"/>
   <word text="this" break_level="SPACE_BREAK"/>
@@ -3237,7 +3237,7 @@
   <word text="do" lemma="do" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241237.035" break_level="SPACE_BREAK"/>
   <word text="n&#39;t" break_level="NO_BREAK"/>
   <word text="know" lemma="know" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1261363.001" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.001" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="he" break_level="SPACE_BREAK"/>
   <word text="could" lemma="can" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1230339.001" break_level="SPACE_BREAK"/>
   <word text="&#39;ve" break_level="NO_BREAK"/>
@@ -3353,7 +3353,7 @@
   <word text="Dvorov" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
   <word text="We" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="head" lemma="head" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253938.048" break_level="SPACE_BREAK"/>
   <word text="straight" lemma="straight" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1294774.020" break_level="SPACE_BREAK"/>
   <word text="over" break_level="SPACE_BREAK"/>
@@ -3472,7 +3472,7 @@
   <word text="and" break_level="SPACE_BREAK"/>
   <word text="whether" break_level="SPACE_BREAK"/>
   <word text="I" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.014" break_level="SPACE_BREAK"/>
   <word text="wearing" lemma="wear" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305481.001" break_level="SPACE_BREAK"/>
   <word text="body" lemma="body" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1227555.001" break_level="SPACE_BREAK"/>
@@ -4504,7 +4504,7 @@
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="right" lemma="right" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1285123.024" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.005" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="he" break_level="SPACE_BREAK"/>
   <word text="led" lemma="lead" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1262579.001" break_level="SPACE_BREAK"/>
   <word text="us" break_level="SPACE_BREAK"/>
@@ -4999,7 +4999,7 @@
   <word text="world" break_level="SPACE_BREAK"/>
   <word text="based" lemma="base" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225073.025" break_level="SPACE_BREAK"/>
   <word text="around" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="unkillable" break_level="SPACE_BREAK"/>
   <word text="they" break_level="SPACE_BREAK"/>
   <word text="are" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
@@ -5447,7 +5447,7 @@
   <word text="will" lemma="will" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1306429.001" break_level="SPACE_BREAK"/>
   <word text="tell" lemma="tell" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1297608.001" break_level="SPACE_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.001" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
   <word text="can" lemma="can" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1230339.001" break_level="SPACE_BREAK"/>
   <word text="find" lemma="find" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1247107.001" break_level="SPACE_BREAK"/>
@@ -6467,7 +6467,7 @@
   <word text="wooden" lemma="wooden" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1306923.001" break_level="SPACE_BREAK"/>
   <word text="chair" lemma="chair" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231932.001" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.005" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="she" break_level="SPACE_BREAK"/>
   <word text="sat" lemma="sit" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1291002.001" break_level="SPACE_BREAK"/>
   <word text="me" break_level="SPACE_BREAK"/>
@@ -6568,7 +6568,7 @@
   <word text="my" break_level="SPACE_BREAK"/>
   <word text="elbow" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.005" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="it" break_level="SPACE_BREAK"/>
   <word text="softly" break_level="SPACE_BREAK"/>
   <word text="sucked" lemma="suck" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295470.001" break_level="SPACE_BREAK"/>
@@ -6848,7 +6848,7 @@
   <word text="." break_level="NO_BREAK"/>
   <word text="``" break_level="SENTENCE_BREAK"/>
   <word text="That" break_level="NO_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="help" lemma="help" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1254325.001" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
   <word text="&#39;&#39;" break_level="NO_BREAK"/>
@@ -7297,7 +7297,7 @@
   <word text="I" break_level="SPACE_BREAK"/>
   <word text="mean" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.001" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="do" lemma="do" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241237.035" break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="dryads" break_level="SPACE_BREAK"/>
@@ -7505,7 +7505,7 @@
   <word text="vodka" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
   <word text="``" break_level="SENTENCE_BREAK"/>
-  <word text="Should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="NO_BREAK"/>
+  <word text="Should" lemma="should" pos="VERB" break_level="NO_BREAK"/>
   <word text="n&#39;t" break_level="NO_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
   <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.014" break_level="SPACE_BREAK"/>
@@ -7545,7 +7545,7 @@
   <word text="kid" lemma="kid" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1260944.001" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
   <word text="We" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="get" break_level="SPACE_BREAK"/>
   <word text="going" lemma="go" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1251252.001" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
@@ -7562,7 +7562,7 @@
   <word text="A" break_level="NO_BREAK"/>
   <word text="little" break_level="SPACE_BREAK"/>
   <word text="walking" lemma="walk" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1304921.020" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="get" break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="stuff" lemma="stuff" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295109.001" break_level="SPACE_BREAK"/>
@@ -8460,7 +8460,7 @@
   <word text="unless" break_level="SPACE_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
   <word text="know" lemma="know" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1261363.001" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.001" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="to" break_level="SPACE_BREAK"/>
   <word text="put" lemma="put" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1281994.001" break_level="SPACE_BREAK"/>
   <word text="it" break_level="SPACE_BREAK"/>
@@ -8515,7 +8515,7 @@
   <word text="do" lemma="do" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241237.035" break_level="NO_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
   <word text="know" lemma="know" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1261363.001" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="much" break_level="SPACE_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
   <word text="&#39;ve" break_level="NO_BREAK"/>
@@ -8524,7 +8524,7 @@
   <word text="back" break_level="SPACE_BREAK"/>
   <word text="?" break_level="NO_BREAK"/>
   <word text="I" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="say" lemma="say" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1287486.001" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
   <word text="set" lemma="set" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1289370.016" break_level="SPACE_BREAK"/>
@@ -9294,7 +9294,7 @@
   <word text="be" break_level="SPACE_BREAK"/>
   <word text="reminded" break_level="SPACE_BREAK"/>
   <word text="of" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="old" break_level="SPACE_BREAK"/>
   <word text="I" break_level="SPACE_BREAK"/>
   <word text="actually" break_level="SPACE_BREAK"/>
@@ -9909,7 +9909,7 @@
   <word text="dead" lemma="dead" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238579.001" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
   <word text="He" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
   <word text="I" break_level="SPACE_BREAK"/>
@@ -10369,7 +10369,7 @@
   <word text="hidden" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
   <word text="You" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="look" lemma="look" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1264302.001" break_level="SPACE_BREAK"/>
   <word text="for" break_level="SPACE_BREAK"/>
   <word text="him" break_level="SPACE_BREAK"/>
@@ -10909,7 +10909,7 @@
   <word text="guess" break_level="SPACE_BREAK"/>
   <word text="I" break_level="SPACE_BREAK"/>
   <word text="probably" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="&#39;ve" break_level="NO_BREAK"/>
   <word text="known" lemma="know" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1261363.001" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
@@ -10985,7 +10985,7 @@
   <word text="crowd" break_level="SPACE_BREAK"/>
   <word text="and" break_level="SPACE_BREAK"/>
   <word text="knew" lemma="know" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1261363.001" break_level="SPACE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.001" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="to" break_level="SPACE_BREAK"/>
   <word text="start" lemma="start" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1293930.001" break_level="SPACE_BREAK"/>
   <word text="looking" lemma="look" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1264302.001" break_level="SPACE_BREAK"/>
@@ -11523,7 +11523,7 @@
   <word text="!" break_level="NO_BREAK"/>
   <word text="Who" break_level="SPACE_BREAK"/>
   <word text="knows" lemma="know" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1261363.001" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="long" lemma="long" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1264221.025" break_level="SPACE_BREAK"/>
   <word text="he" break_level="SPACE_BREAK"/>
   <word text="&#39;ll" break_level="NO_BREAK"/>
@@ -12186,7 +12186,7 @@
   <word text="could" break_level="SPACE_BREAK"/>
   <word text="n&#39;t" break_level="NO_BREAK"/>
   <word text="tell" lemma="tell" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1297608.007" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="many" break_level="SPACE_BREAK"/>
   <word text="people" break_level="SPACE_BREAK"/>
   <word text="were" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
@@ -12194,7 +12194,7 @@
   <word text="," break_level="NO_BREAK"/>
   <word text="much" break_level="SPACE_BREAK"/>
   <word text="less" break_level="SPACE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.001" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="they" break_level="SPACE_BREAK"/>
   <word text="were" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>

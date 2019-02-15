@@ -293,7 +293,7 @@
   <word text="since" break_level="SPACE_BREAK"/>
   <word text="this" break_level="SPACE_BREAK"/>
   <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.006" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="we" break_level="SPACE_BREAK"/>
   <word text="will" lemma="will" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1306429.001" break_level="SPACE_BREAK"/>
   <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.014" break_level="SPACE_BREAK"/>

@@ -112,7 +112,7 @@
   <word text="international" break_level="SPACE_BREAK"/>
   <word text="exploration" break_level="SPACE_BREAK"/>
   <word text="leases" break_level="SPACE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.005" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="exploration" break_level="SPACE_BREAK"/>
   <word text="efforts" break_level="SPACE_BREAK"/>
   <word text="have" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.034" break_level="SPACE_BREAK"/>

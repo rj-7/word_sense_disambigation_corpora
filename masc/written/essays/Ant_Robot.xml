@@ -933,7 +933,7 @@
   <word text="show" lemma="show" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290298.015" break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="foragers" break_level="SPACE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.001" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="food" break_level="SPACE_BREAK"/>
   <word text="is" break_level="SPACE_BREAK"/>
@@ -3787,7 +3787,7 @@
   <word text="cruise" break_level="SPACE_BREAK"/>
   <word text="function" lemma="function" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1249510.001" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="cause" break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="robot" break_level="SPACE_BREAK"/>
@@ -3828,7 +3828,7 @@
   <word text="," break_level="NO_BREAK"/>
   <word text="and" break_level="SPACE_BREAK"/>
   <word text="also" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="far" lemma="far" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1246250.001" break_level="SPACE_BREAK"/>
   <word text="from" break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
@@ -3844,7 +3844,7 @@
   <word text="orientation" break_level="SPACE_BREAK"/>
   <word text="and" break_level="SPACE_BREAK"/>
   <word text="distance" lemma="distance" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241025.001" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
   <word text="calculable" break_level="SPACE_BREAK"/>
   <word text="by" break_level="SPACE_BREAK"/>
@@ -3879,7 +3879,7 @@
   <word text="toward" break_level="SPACE_BREAK"/>
   <word text="which" break_level="SPACE_BREAK"/>
   <word text="it" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="orient" lemma="orient" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273918.007" break_level="SPACE_BREAK"/>
   <word text="in" break_level="SPACE_BREAK"/>
   <word text="order" break_level="SPACE_BREAK"/>
@@ -9213,7 +9213,7 @@
   <word text="at" break_level="SPACE_BREAK"/>
   <word text="Work" break_level="SPACE_BREAK"/>
   <word text=":" break_level="NO_BREAK"/>
-  <word text="How" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.001" break_level="SENTENCE_BREAK"/>
+  <word text="How" lemma="how" pos="ADV"  break_level="SENTENCE_BREAK"/>
   <word text="an" break_level="SPACE_BREAK"/>
   <word text="Insect" break_level="SPACE_BREAK"/>
   <word text="Society" break_level="SPACE_BREAK"/>

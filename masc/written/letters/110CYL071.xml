@@ -152,7 +152,7 @@
   <word text="job" lemma="job" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1259910.001" break_level="SPACE_BREAK"/>
   <word text="-" break_level="NO_BREAK"/>
   <word text="match" lemma="match" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266456.003" break_level="NO_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.006" break_level="LINE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="LINE_BREAK"/>
   <word text="his" break_level="SPACE_BREAK"/>
   <word text="people" lemma="people" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276782.001" break_level="SPACE_BREAK"/>
   <word text="skills" break_level="SPACE_BREAK"/>

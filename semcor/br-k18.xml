@@ -682,7 +682,7 @@
   <word text="There" break_level="SENTENCE_BREAK"/>
   <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.001" break_level="SPACE_BREAK"/>
   <word text="somebody" break_level="SPACE_BREAK"/>
-  <word text="else" lemma="else" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1243711.001" break_level="SPACE_BREAK"/>
+  <word text="else" lemma="else" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="in" break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="apartment" break_level="SPACE_BREAK"/>

@@ -1132,7 +1132,7 @@
   <word text="to" break_level="SPACE_BREAK"/>
   <word text="be" break_level="SPACE_BREAK"/>
   <word text="anything" break_level="SPACE_BREAK"/>
-  <word text="else" lemma="else" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1243711.002" break_level="SPACE_BREAK"/>
+  <word text="else" lemma="else" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
   <word text="It" break_level="PARAGRAPH_BREAK"/>
   <word text="is" break_level="SPACE_BREAK"/>

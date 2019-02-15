@@ -328,7 +328,7 @@
   <word text="when" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
   <word text="and" break_level="SPACE_BREAK"/>
-  <word text="where" lemma="where" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.901" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="NOUN"  break_level="SPACE_BREAK"/>
   <word text="of" break_level="SPACE_BREAK"/>
   <word text="what" break_level="SPACE_BREAK"/>
   <word text="&#39;s" break_level="NO_BREAK"/>

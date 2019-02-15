@@ -236,7 +236,7 @@
   <word text="an" break_level="SPACE_BREAK"/>
   <word text="indication" break_level="SPACE_BREAK"/>
   <word text="of" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="fast" lemma="fast" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1246352.013" break_level="SPACE_BREAK"/>
   <word text="they" break_level="SPACE_BREAK"/>
   <word text="are" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.014" break_level="SPACE_BREAK"/>
@@ -449,7 +449,7 @@
   <word text="." break_level="NO_BREAK"/>
   <word text="A" break_level="SENTENCE_BREAK"/>
   <word text="Christian" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="have" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.001" break_level="SPACE_BREAK"/>
   <word text="only" lemma="only" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273443.001" break_level="SPACE_BREAK"/>
   <word text="one" break_level="SPACE_BREAK"/>

@@ -71,7 +71,7 @@
   <word text="each" break_level="SPACE_BREAK"/>
   <word text="season" break_level="SPACE_BREAK"/>
   <word text="and" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.001" break_level="LINE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="LINE_BREAK"/>
   <word text="to" break_level="SPACE_BREAK"/>
   <word text="use" lemma="use" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1303226.001" break_level="SPACE_BREAK"/>
   <word text="them" break_level="SPACE_BREAK"/>
@@ -218,7 +218,7 @@
   <word text="&#39;" break_level="NO_BREAK"/>
   <word text="markets" lemma="market" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266136.001" break_level="LINE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
-  <word text="HOW" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.001" break_level="PARAGRAPH_BREAK"/>
+  <word text="HOW" lemma="how" pos="ADV"  break_level="PARAGRAPH_BREAK"/>
   <word text="TO" break_level="SPACE_BREAK"/>
   <word text="SELECT" break_level="SPACE_BREAK"/>
   <word text="As" break_level="SPACE_BREAK"/>

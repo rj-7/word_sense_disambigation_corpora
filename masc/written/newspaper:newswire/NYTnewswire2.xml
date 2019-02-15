@@ -170,7 +170,7 @@
   <word text="to" break_level="SPACE_BREAK"/>
   <word text="France" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.006" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="he" break_level="SPACE_BREAK"/>
   <word text="once" break_level="SPACE_BREAK"/>
   <word text="lived" lemma="live" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263900.008" break_level="SPACE_BREAK"/>

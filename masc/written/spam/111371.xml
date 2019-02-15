@@ -37,7 +37,7 @@
   <word text=")" break_level="NO_BREAK"/>
   <word text="Hello" break_level="PARAGRAPH_BREAK"/>
   <word text="!" break_level="NO_BREAK"/>
-  <word text="How" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.002" break_level="PARAGRAPH_BREAK"/>
+  <word text="How" lemma="how" pos="ADV"  break_level="PARAGRAPH_BREAK"/>
   <word text="would" break_level="SPACE_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
   <word text="like" lemma="like" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263474.002" break_level="SPACE_BREAK"/>
@@ -74,7 +74,7 @@
   <word text="of" break_level="SPACE_BREAK"/>
   <word text="network" lemma="network" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1271089.003" break_level="SPACE_BREAK"/>
   <word text="marketing" lemma="market" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266136.008" break_level="SPACE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.005" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
   <word text="had" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.019" break_level="SPACE_BREAK"/>
   <word text="to" break_level="SPACE_BREAK"/>

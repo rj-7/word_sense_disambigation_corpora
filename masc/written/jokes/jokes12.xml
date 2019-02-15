@@ -372,7 +372,7 @@
   <word text="that" break_level="SPACE_BREAK"/>
   <word text="would" lemma="would" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1307187.001" break_level="SPACE_BREAK"/>
   <word text="be" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.001" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="?" break_level="NO_BREAK"/>
   <word text=")" break_level="NO_BREAK"/>
   <word text="13" break_level="LINE_BREAK"/>

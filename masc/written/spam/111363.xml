@@ -223,7 +223,7 @@
   <word text="different" lemma="different" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1240277.001" break_level="SPACE_BREAK"/>
   <word text="way" lemma="way" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305429.001" break_level="SPACE_BREAK"/>
   <word text="from" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.001" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="I" break_level="SPACE_BREAK"/>
   <word text="have" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.034" break_level="SPACE_BREAK"/>
   <word text="lived" lemma="live" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263900.001" break_level="LINE_BREAK"/>
@@ -468,7 +468,7 @@
   <word text="my" break_level="SPACE_BREAK"/>
   <word text="hospital" lemma="hospital" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1255867.001" break_level="SPACE_BREAK"/>
   <word text="bed" lemma="bed" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225562.001" break_level="SPACE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.005" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="I" break_level="SPACE_BREAK"/>
   <word text="wait" lemma="wait" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1304874.001" break_level="SPACE_BREAK"/>
   <word text="for" break_level="SPACE_BREAK"/>

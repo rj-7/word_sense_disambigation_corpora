@@ -76,7 +76,7 @@
   <word text="Angels" break_level="SPACE_BREAK"/>
   <word text="got" lemma="get" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1250696.006" break_level="SPACE_BREAK"/>
   <word text="help" lemma="help" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1254325.010" break_level="SPACE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.006" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="they" break_level="SPACE_BREAK"/>
   <word text="felt" lemma="feel" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1246555.017" break_level="SPACE_BREAK"/>
   <word text="they" break_level="LINE_BREAK"/>

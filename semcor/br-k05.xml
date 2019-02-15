@@ -1098,7 +1098,7 @@
   <word text="did" break_level="SPACE_BREAK"/>
   <word text="n&#39;t" break_level="SPACE_BREAK"/>
   <word text="know" lemma="know" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1261363.001" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.001" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
   <word text="He" break_level="SENTENCE_BREAK"/>
   <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>

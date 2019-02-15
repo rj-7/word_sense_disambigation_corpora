@@ -81,7 +81,7 @@
   <word text="n&#39;t" break_level="NO_BREAK"/>
   <word text="tell" lemma="tell" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1297608.001" break_level="SPACE_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"   break_level="SPACE_BREAK"/>
   <word text="many" break_level="SPACE_BREAK"/>
   <word text="politicians" break_level="SPACE_BREAK"/>
   <word text="I" break_level="LINE_BREAK"/>
@@ -101,7 +101,7 @@
   <word text="do" lemma="do" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241237.035" break_level="SPACE_BREAK"/>
   <word text="n&#39;t" break_level="NO_BREAK"/>
   <word text="understand" lemma="understand" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1301959.001" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.001" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="or" break_level="SPACE_BREAK"/>
   <word text="why" break_level="SPACE_BREAK"/>
   <word text="they" break_level="SPACE_BREAK"/>

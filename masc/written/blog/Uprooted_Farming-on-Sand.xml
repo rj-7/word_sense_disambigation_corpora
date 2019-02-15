@@ -1086,7 +1086,7 @@
   <word text="The" break_level="SENTENCE_BREAK"/>
   <word text="straw" lemma="straw" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1294869.001" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="be" break_level="SPACE_BREAK"/>
   <word text="separated" lemma="separate" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1289127.010" break_level="SPACE_BREAK"/>
   <word text="from" break_level="SPACE_BREAK"/>

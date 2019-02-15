@@ -430,7 +430,7 @@
   <word text="that" break_level="SPACE_BREAK"/>
   <word text="we" break_level="SPACE_BREAK"/>
   <word text="refugees" break_level="LINE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="evacuate" lemma="evacuate" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1245219.001" break_level="SPACE_BREAK"/>
   <word text="their" break_level="SPACE_BREAK"/>
   <word text="Bujumbura" break_level="SPACE_BREAK"/>
@@ -513,7 +513,7 @@
   <word text="that" break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="company" lemma="company" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234891.001" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="not" break_level="SPACE_BREAK"/>
   <word text="mind" lemma="mind" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1268098.013" break_level="SPACE_BREAK"/>
   <word text="me" break_level="SPACE_BREAK"/>
@@ -634,7 +634,7 @@
   <word text="to" break_level="SPACE_BREAK"/>
   <word text="your" break_level="SPACE_BREAK"/>
   <word text="country" lemma="country" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1236533.001" break_level="SPACE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.005" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="I" break_level="SPACE_BREAK"/>
   <word text="and" break_level="SPACE_BREAK"/>
   <word text="my" break_level="SPACE_BREAK"/>

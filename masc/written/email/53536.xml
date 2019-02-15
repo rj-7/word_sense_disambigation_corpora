@@ -190,7 +190,7 @@
   <word text="Hopefully" lemma="hopefully" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1255710.002" break_level="SENTENCE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
   <word text="I" break_level="SPACE_BREAK"/>
-  <word text="shall" lemma="shall" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1289638.001" break_level="SPACE_BREAK"/>
+  <word text="shall" lemma="shall" pos="VERB"  break_level="SPACE_BREAK"/>
   <word text="make" lemma="make" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1265484.008" break_level="SPACE_BREAK"/>
   <word text="a" break_level="SPACE_BREAK"/>
   <word text="decision" break_level="LINE_BREAK"/>
@@ -265,7 +265,7 @@
   <word text="worked" lemma="work" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1307050.020" break_level="SPACE_BREAK"/>
   <word text="with" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
-  <word text="How" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="SENTENCE_BREAK"/>
+  <word text="How" lemma="how" pos="ADV"   break_level="SENTENCE_BREAK"/>
   <word text="big" lemma="big" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1226340.001" break_level="SPACE_BREAK"/>
   <word text="are" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
   <word text="they" break_level="SPACE_BREAK"/>

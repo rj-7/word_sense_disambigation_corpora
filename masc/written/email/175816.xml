@@ -277,7 +277,7 @@
   <word text="state" lemma="state" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1293954.006" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
   <word text="just" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"   break_level="SPACE_BREAK"/>
   <word text="many" break_level="SPACE_BREAK"/>
   <word text="years" lemma="year" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1307589.002" break_level="SPACE_BREAK"/>
   <word text="would" lemma="would" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1307187.002" break_level="SPACE_BREAK"/>

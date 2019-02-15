@@ -348,7 +348,7 @@
   <word text="been" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
   <word text="And" break_level="SENTENCE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="long" lemma="long" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1264221.025" break_level="SPACE_BREAK"/>
   <word text="have" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.034" break_level="SPACE_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>

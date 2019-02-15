@@ -61,7 +61,7 @@
   <word text="towns" break_level="SPACE_BREAK"/>
   <word text="and" break_level="SPACE_BREAK"/>
   <word text="neighborhoods" break_level="SPACE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.005" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="they" break_level="SPACE_BREAK"/>
   <word text="are" break_level="SPACE_BREAK"/>
   <word text="needed" lemma="need" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1270832.001" break_level="LINE_BREAK"/>

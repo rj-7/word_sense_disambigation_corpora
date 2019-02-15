@@ -92,7 +92,7 @@
   <word text="``" break_level="SPACE_BREAK"/>
   <word text="I" break_level="NO_BREAK"/>
   <word text="like" lemma="like" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263474.001" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"   break_level="SPACE_BREAK"/>
   <word text="quick" lemma="quick" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1282450.001" break_level="SPACE_BREAK"/>
   <word text="this" break_level="SPACE_BREAK"/>
   <word text="product" lemma="product" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280957.001" break_level="SPACE_BREAK"/>
@@ -111,7 +111,7 @@
   <word text="his" break_level="SPACE_BREAK"/>
   <word text="talking" lemma="talking" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1296889.004" break_level="SPACE_BREAK"/>
   <word text="on" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"   break_level="SPACE_BREAK"/>
   <word text="excited" lemma="excited" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1245413.001" break_level="SPACE_BREAK"/>
   <word text="he" break_level="SPACE_BREAK"/>
   <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
@@ -157,7 +157,7 @@
   <word text="can" lemma="can" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1230339.001" break_level="SPACE_BREAK"/>
   <word text="not" break_level="NO_BREAK"/>
   <word text="describe" lemma="describe" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1239683.001" break_level="LINE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"   break_level="SPACE_BREAK"/>
   <word text="plume" break_level="SPACE_BREAK"/>
   <word text="I" break_level="SPACE_BREAK"/>
   <word text="am" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>

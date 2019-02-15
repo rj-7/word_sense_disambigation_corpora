@@ -210,7 +210,7 @@
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="elections" break_level="SPACE_BREAK"/>
   <word text="and" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.001" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV" break_level="SPACE_BREAK"/>
   <word text="they" break_level="SPACE_BREAK"/>
   <word text="figure" break_level="SPACE_BREAK"/>
   <word text="in" break_level="SPACE_BREAK"/>

@@ -1428,7 +1428,7 @@
   <word text="himself" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
   <word text="And" break_level="SENTENCE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV" break_level="SPACE_BREAK"/>
   <word text="anxious" lemma="anxious" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1222287.003" break_level="SPACE_BREAK"/>
   <word text="this" break_level="SPACE_BREAK"/>
   <word text="lover" break_level="SPACE_BREAK"/>

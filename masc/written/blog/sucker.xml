@@ -161,7 +161,7 @@
   <word text="age" lemma="age" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1220381.001" break_level="SPACE_BREAK"/>
   <word text="13" break_level="SPACE_BREAK"/>
   <word text="and" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.006" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="she" break_level="SPACE_BREAK"/>
   <word text="was" break_level="SPACE_BREAK"/>
   <word text="given" lemma="give" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1250951.001" break_level="SPACE_BREAK"/>
@@ -352,7 +352,7 @@
   <word text="one" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
   <word text="who" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="n&#39;t" break_level="NO_BREAK"/>
   <word text="bear" lemma="bear" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225453.009" break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>

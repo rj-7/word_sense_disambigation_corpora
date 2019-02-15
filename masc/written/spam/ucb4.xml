@@ -88,7 +88,7 @@
   <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
   <word text="really" lemma="really" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283295.001" break_level="SPACE_BREAK"/>
   <word text="impressed" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"   break_level="SPACE_BREAK"/>
   <word text="fast" lemma="fast" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1246352.013" break_level="SPACE_BREAK"/>
   <word text="your" break_level="SPACE_BREAK"/>
   <word text="stuff" lemma="stuff" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1295109.001" break_level="SPACE_BREAK"/>
@@ -105,7 +105,7 @@
   <word text="stop" lemma="stop" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1294654.001" break_level="SPACE_BREAK"/>
   <word text="jabber" break_level="SPACE_BREAK"/>
   <word text="on" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"   break_level="SPACE_BREAK"/>
   <word text="hot" break_level="SPACE_BREAK"/>
   <word text="he" break_level="SPACE_BREAK"/>
   <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
@@ -155,7 +155,7 @@
   <word text="can" lemma="can" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1230339.001" break_level="SPACE_BREAK"/>
   <word text="not" lemma="not" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272156.001" break_level="NO_BREAK"/>
   <word text="report" lemma="report" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1284331.001" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"   break_level="SPACE_BREAK"/>
   <word text="pleased" break_level="SPACE_BREAK"/>
   <word text="I" break_level="SPACE_BREAK"/>
   <word text="am" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>

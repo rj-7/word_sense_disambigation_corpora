@@ -911,7 +911,7 @@
   <word text="," break_level="NO_BREAK"/>
   <word text="Pa." break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.006" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="she" break_level="SPACE_BREAK"/>
   <word text="lives" lemma="live" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263900.008" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
@@ -935,7 +935,7 @@
   <word text="," break_level="NO_BREAK"/>
   <word text="Mass." break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.005" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="business" lemma="business" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1229649.005" break_level="SPACE_BREAK"/>
   <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
   <word text="up" lemma="up" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1302984.012" break_level="SPACE_BREAK"/>

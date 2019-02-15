@@ -24,7 +24,7 @@
   <word text="metal" lemma="metal" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1267417.001" break_level="SPACE_BREAK"/>
   <word text="in" break_level="SPACE_BREAK"/>
   <word text="fluorine" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.001" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="product" lemma="product" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280957.001" break_level="SPACE_BREAK"/>
   <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>

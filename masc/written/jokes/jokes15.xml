@@ -411,7 +411,7 @@
   <word text="grazing" break_level="SPACE_BREAK"/>
   <word text="Mace" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="sweet" break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="hound" break_level="SPACE_BREAK"/>
@@ -594,7 +594,7 @@
   <word text="that" break_level="SPACE_BREAK"/>
   <word text="nobody" break_level="SPACE_BREAK"/>
   <word text="appreciates" lemma="appreciate" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1222550.003" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="difficult" break_level="SPACE_BREAK"/>
   <word text="it" break_level="SPACE_BREAK"/>
   <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>

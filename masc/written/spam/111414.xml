@@ -66,7 +66,7 @@
   <word text="scam" break_level="SPACE_BREAK"/>
   <word text="experience" break_level="SPACE_BREAK"/>
   <word text="and" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.001" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="i" break_level="SPACE_BREAK"/>
   <word text="got" break_level="SPACE_BREAK"/>
   <word text="refunded" lemma="refund" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283887.001" break_level="SPACE_BREAK"/>
@@ -181,7 +181,7 @@
   <word text="advised" break_level="SPACE_BREAK"/>
   <word text="me" break_level="SPACE_BREAK"/>
   <word text="on" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.001" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="he" break_level="SPACE_BREAK"/>
   <word text="was" break_level="SPACE_BREAK"/>
   <word text="able" lemma="able" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1219312.001" break_level="SPACE_BREAK"/>
@@ -208,7 +208,7 @@
   <word text="Nigerian" break_level="SPACE_BREAK"/>
   <word text="senate" break_level="SPACE_BREAK"/>
   <word text="House" break_level="SPACE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.005" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="he" break_level="SPACE_BREAK"/>
   <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.015" break_level="SPACE_BREAK"/>
   <word text="also" break_level="SPACE_BREAK"/>
@@ -580,7 +580,7 @@
   <word text="any" break_level="SPACE_BREAK"/>
   <word text="idea" lemma="idea" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256909.001" break_level="SPACE_BREAK"/>
   <word text="on" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.001" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="to" break_level="SPACE_BREAK"/>
   <word text="report" lemma="report" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1284331.001" break_level="SPACE_BREAK"/>
   <word text="your" break_level="SPACE_BREAK"/>

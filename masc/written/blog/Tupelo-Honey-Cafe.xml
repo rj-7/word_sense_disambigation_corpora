@@ -827,7 +827,7 @@
   <word text="sunny" break_level="SPACE_BREAK"/>
   <word text="Tennessee" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.001" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="I" break_level="SPACE_BREAK"/>
   <word text="get" break_level="SPACE_BREAK"/>
   <word text="down" break_level="SPACE_BREAK"/>

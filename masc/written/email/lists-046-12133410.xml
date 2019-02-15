@@ -455,7 +455,7 @@
   <word text="in" break_level="SPACE_BREAK"/>
   <word text="no" break_level="SPACE_BREAK"/>
   <word text="way" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="be" break_level="SPACE_BREAK"/>
   <word text="taken" lemma="take" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1296844.027" break_level="SPACE_BREAK"/>
   <word text="as" break_level="LINE_BREAK"/>

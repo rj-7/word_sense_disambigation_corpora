@@ -48,7 +48,7 @@
   <word text="OK" break_level="SENTENCE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
   <word text="And" break_level="SENTENCE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.001" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="did" break_level="SPACE_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
   <word text="grow" lemma="grow" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1252535.001" break_level="SPACE_BREAK"/>
@@ -511,7 +511,7 @@
   <word text="." break_level="NO_BREAK"/>
   <word text="Uh-huh" break_level="SENTENCE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
-  <word text="How" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="SENTENCE_BREAK"/>
+  <word text="How" lemma="how" pos="ADV"  break_level="SENTENCE_BREAK"/>
   <word text="old" break_level="SPACE_BREAK"/>
   <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
   <word text="she" break_level="SPACE_BREAK"/>

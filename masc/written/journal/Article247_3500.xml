@@ -671,7 +671,7 @@
   <word text="interconnection" break_level="SPACE_BREAK"/>
   <word text="of" break_level="SPACE_BREAK"/>
   <word text="businesses" lemma="business" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1229649.005" break_level="LINE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.006" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="none" break_level="SPACE_BREAK"/>
   <word text="are" break_level="SPACE_BREAK"/>
   <word text="allowed" break_level="SPACE_BREAK"/>
@@ -777,7 +777,7 @@
   <word text="a" break_level="SPACE_BREAK"/>
   <word text="prediction" break_level="SPACE_BREAK"/>
   <word text="of" break_level="SPACE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.001" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="this" break_level="SPACE_BREAK"/>
   <word text="is" break_level="SPACE_BREAK"/>
   <word text="all" break_level="SPACE_BREAK"/>

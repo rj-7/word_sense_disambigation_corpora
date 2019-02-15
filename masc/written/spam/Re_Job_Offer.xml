@@ -381,7 +381,7 @@
   <word text="while" break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="tax" lemma="tax" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1297266.001" break_level="SPACE_BREAK"/>
-  <word text="shall" lemma="shall" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1289638.003" break_level="SPACE_BREAK"/>
+  <word text="shall" lemma="shall" pos="VERB"  break_level="SPACE_BREAK"/>
   <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
   <word text="7" break_level="SPACE_BREAK"/>
   <word text="%" break_level="NO_BREAK"/>

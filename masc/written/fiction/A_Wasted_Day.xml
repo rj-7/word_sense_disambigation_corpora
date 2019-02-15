@@ -1580,7 +1580,7 @@
   <word text="attorney" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
   <word text="He" break_level="SENTENCE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="at" break_level="SPACE_BREAK"/>
   <word text="once" break_level="SPACE_BREAK"/>
   <word text="have" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.034" break_level="SPACE_BREAK"/>
@@ -1922,7 +1922,7 @@
   <word text="He" break_level="SENTENCE_BREAK"/>
   <word text="directed" lemma="direct" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1240564.023" break_level="SPACE_BREAK"/>
   <word text="what" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="be" break_level="SPACE_BREAK"/>
   <word text="done" lemma="do" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241237.001" break_level="SPACE_BREAK"/>
   <word text="if" break_level="SPACE_BREAK"/>
@@ -3767,7 +3767,7 @@
   <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
   <word text="well" break_level="SPACE_BREAK"/>
   <word text="they" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="remember" break_level="SPACE_BREAK"/>
   <word text="that" break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
@@ -3820,7 +3820,7 @@
   <word text="whispered" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
   <word text="``" break_level="SENTENCE_BREAK"/>
-  <word text="Should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="NO_BREAK"/>
+  <word text="Should" lemma="should" pos="VERB" break_level="NO_BREAK"/>
   <word text="have" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.034" break_level="SPACE_BREAK"/>
   <word text="warned" break_level="SPACE_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
@@ -3919,7 +3919,7 @@
   <word text="in" break_level="SPACE_BREAK"/>
   <word text="this" break_level="SPACE_BREAK"/>
   <word text="place" lemma="place" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1278491.001" break_level="SPACE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.005" break_level="LINE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="LINE_BREAK"/>
   <word text="he" break_level="SPACE_BREAK"/>
   <word text="had" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.034" break_level="SPACE_BREAK"/>
   <word text="been" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.015" break_level="SPACE_BREAK"/>

@@ -739,7 +739,7 @@
   <word text="NATIONAL" break_level="SPACE_BREAK"/>
   <word text="WILDLIFE" break_level="SPACE_BREAK"/>
   <word text="®" break_level="NO_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.005" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
   <word text="&#39;ll" break_level="NO_BREAK"/>
   <word text="see" lemma="see" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1428150.001" break_level="SPACE_BREAK"/>
@@ -755,7 +755,7 @@
   <word text="and" break_level="SPACE_BREAK"/>
   <word text="learn" lemma="learn" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1262669.001" break_level="SPACE_BREAK"/>
   <word text="just" lemma="just" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1260351.004" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.001" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="NWF" break_level="SPACE_BREAK"/>
   <word text="goes" break_level="SPACE_BREAK"/>
   <word text="about" break_level="SPACE_BREAK"/>

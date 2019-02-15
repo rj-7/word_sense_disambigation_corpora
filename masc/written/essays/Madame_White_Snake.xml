@@ -1208,7 +1208,7 @@
   <word text="feature" break_level="SPACE_BREAK"/>
   <word text="many" break_level="SPACE_BREAK"/>
   <word text="moments" lemma="moment" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1268778.001" break_level="SPACE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.005" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="readers" lemma="reader" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283252.001" break_level="SPACE_BREAK"/>
   <word text="have" break_level="SPACE_BREAK"/>
   <word text="great" lemma="great" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1252093.001" break_level="SPACE_BREAK"/>
@@ -1955,7 +1955,7 @@
   <word text="Lady" break_level="LINE_BREAK"/>
   <word text="White" break_level="SPACE_BREAK"/>
   <word text="Snake" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.015" break_level="SPACE_BREAK"/>
   <word text="reclaimed" lemma="reclaim" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283450.001" break_level="SPACE_BREAK"/>
   <word text="for" break_level="SPACE_BREAK"/>

@@ -87,7 +87,7 @@
   <word text="what" break_level="SPACE_BREAK"/>
   <word text="happened" lemma="happen" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253509.001" break_level="SPACE_BREAK"/>
   <word text="and" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.001" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="it" break_level="SPACE_BREAK"/>
   <word text="happened" lemma="happen" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253509.001" break_level="SPACE_BREAK"/>
   <word text="so" break_level="SPACE_BREAK"/>
@@ -202,7 +202,7 @@
   <word text="help" lemma="help" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1254325.001" break_level="SPACE_BREAK"/>
   <word text="us" break_level="SPACE_BREAK"/>
   <word text="understand" lemma="understand" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1301959.001" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.001" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="crisis" break_level="SPACE_BREAK"/>
   <word text="could" lemma="could" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1236433.001" break_level="LINE_BREAK"/>
@@ -692,7 +692,7 @@
   <word text="central" lemma="central" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231691.004" break_level="SPACE_BREAK"/>
   <word text="question" break_level="SPACE_BREAK"/>
   <word text=":" break_level="NO_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.001" break_level="LINE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="LINE_BREAK"/>
   <word text="did" lemma="do" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241237.035" break_level="SPACE_BREAK"/>
   <word text="it" break_level="SPACE_BREAK"/>
   <word text="come" lemma="come" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234657.016" break_level="SPACE_BREAK"/>
@@ -1492,7 +1492,7 @@
   <word text="-" break_level="NO_BREAK"/>
   <word text="term" lemma="term" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1297843.004" break_level="NO_BREAK"/>
   <word text="``" break_level="SPACE_BREAK"/>
-  <word text="repo" lemma="repo" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1284327.001" break_level="NO_BREAK"/>
+  <word text="repo" lemma="repo" pos="NOUN" break_level="NO_BREAK"/>
   <word text="&#39;&#39;" break_level="NO_BREAK"/>
   <word text="lending" lemma="lend" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1262933.001" break_level="SPACE_BREAK"/>
   <word text="markets" lemma="market" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266136.003" break_level="SPACE_BREAK"/>
@@ -1660,7 +1660,7 @@
   <word text="on" break_level="SPACE_BREAK"/>
   <word text="a" break_level="SPACE_BREAK"/>
   <word text="highway" break_level="SPACE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.001" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="there" break_level="SPACE_BREAK"/>
   <word text="were" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.001" break_level="SPACE_BREAK"/>
   <word text="neither" break_level="LINE_BREAK"/>
@@ -3424,7 +3424,7 @@
   <word text="multitrillion" break_level="SPACE_BREAK"/>
   <word text="-" break_level="NO_BREAK"/>
   <word text="dollar" break_level="NO_BREAK"/>
-  <word text="repo" lemma="repo" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1284327.001" break_level="SPACE_BREAK"/>
+  <word text="repo" lemma="repo" pos="NOUN" break_level="SPACE_BREAK"/>
   <word text="lending" break_level="SPACE_BREAK"/>
   <word text="market" lemma="market" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266136.003" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
@@ -5912,7 +5912,7 @@
   <word text="is" break_level="SPACE_BREAK"/>
   <word text="apart" lemma="apart" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1222323.002" break_level="LINE_BREAK"/>
   <word text="from" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="many" break_level="SPACE_BREAK"/>
   <word text="times" lemma="time" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1298880.023" break_level="SPACE_BREAK"/>
   <word text="these" break_level="SPACE_BREAK"/>
@@ -6490,7 +6490,7 @@
   <word text="risks" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
   <word text="which" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="have" break_level="SPACE_BREAK"/>
   <word text="been" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.015" break_level="SPACE_BREAK"/>
   <word text="recognized" break_level="SPACE_BREAK"/>
@@ -7772,7 +7772,7 @@
   <word text="." break_level="NO_BREAK"/>
   <word text="This" break_level="PARAGRAPH_BREAK"/>
   <word text="report" lemma="report" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1284331.008" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="not" lemma="not" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272156.001" break_level="SPACE_BREAK"/>
   <word text="be" break_level="SPACE_BREAK"/>
   <word text="viewed" lemma="view" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1304221.011" break_level="SPACE_BREAK"/>

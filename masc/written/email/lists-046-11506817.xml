@@ -122,7 +122,7 @@
   <word text="." break_level="NO_BREAK"/>
   <word text="1" break_level="PARAGRAPH_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
-  <word text="How" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.001" break_level="SENTENCE_BREAK"/>
+  <word text="How" lemma="how" pos="ADV"  break_level="SENTENCE_BREAK"/>
   <word text="will" break_level="SPACE_BREAK"/>
   <word text="we" break_level="SPACE_BREAK"/>
   <word text="handle" lemma="handle" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253407.004" break_level="SPACE_BREAK"/>

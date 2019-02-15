@@ -79,7 +79,7 @@
   <word text="gift" lemma="gift" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1250817.001" break_level="SPACE_BREAK"/>
   <word text="?" break_level="NO_BREAK"/>
   <word text="Remember" break_level="SENTENCE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="much" break_level="SPACE_BREAK"/>
   <word text="fun" break_level="SPACE_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
@@ -90,12 +90,12 @@
   <word text="that" break_level="SPACE_BREAK"/>
   <word text="bike" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="fast" lemma="fast" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1246352.013" break_level="SPACE_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
   <word text="went" lemma="go" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1251252.001" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="great" lemma="great" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1252093.007" break_level="SPACE_BREAK"/>
   <word text="it" break_level="SPACE_BREAK"/>
   <word text="felt" lemma="feel" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1246555.001" break_level="SPACE_BREAK"/>

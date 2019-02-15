@@ -93,7 +93,7 @@
   <word text="might" lemma="might" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1267902.010" break_level="SPACE_BREAK"/>
   <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.014" break_level="SPACE_BREAK"/>
   <word text="thinking" lemma="think" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1298366.004" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.001" break_level="LINE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="LINE_BREAK"/>
   <word text="this" break_level="SPACE_BREAK"/>
   <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
   <word text="possible" break_level="SPACE_BREAK"/>

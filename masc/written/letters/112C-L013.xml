@@ -234,7 +234,7 @@
   <word text="come" lemma="come" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234657.016" break_level="SPACE_BREAK"/>
   <word text="from" break_level="SPACE_BREAK"/>
   <word text="families" lemma="family" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1246175.001" break_level="LINE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.006" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
   <word text="through" break_level="SPACE_BREAK"/>
   <word text="therapy" break_level="SPACE_BREAK"/>
@@ -260,7 +260,7 @@
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="group" break_level="SPACE_BREAK"/>
   <word text="homes" lemma="home" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1255439.006" break_level="SPACE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.005" break_level="LINE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="LINE_BREAK"/>
   <word text="they" break_level="SPACE_BREAK"/>
   <word text="live" lemma="live" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263900.008" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>

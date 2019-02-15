@@ -141,7 +141,7 @@
   <word text="in" break_level="SPACE_BREAK"/>
   <word text="a" break_level="SPACE_BREAK"/>
   <word text="country" lemma="country" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1236533.001" break_level="SPACE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.005" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="Colorado" break_level="SPACE_BREAK"/>
   <word text="had" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.034" break_level="SPACE_BREAK"/>
   <word text="just" lemma="just" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1260351.006" break_level="SPACE_BREAK"/>
@@ -583,7 +583,7 @@
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="12" break_level="SPACE_BREAK"/>
   <word text="states" lemma="state" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1293954.006" break_level="SPACE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.005" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="we" break_level="SPACE_BREAK"/>
   <word text="are" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
   <word text="active" break_level="SPACE_BREAK"/>
@@ -596,11 +596,11 @@
   <word text="a" break_level="SPACE_BREAK"/>
   <word text="comeback" lemma="comeback" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234659.001" break_level="SPACE_BREAK"/>
   <word text="!" break_level="NO_BREAK"/>
-  <word text="Should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SENTENCE_BREAK"/>
+  <word text="Should" lemma="should" pos="VERB" break_level="SENTENCE_BREAK"/>
   <word text="n&#39;t" break_level="NO_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
   <word text="?" break_level="NO_BREAK"/>
-  <word text="Should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SENTENCE_BREAK"/>
+  <word text="Should" lemma="should" pos="VERB" break_level="SENTENCE_BREAK"/>
   <word text="n&#39;t" break_level="NO_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
   <word text="watch" lemma="watch" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305222.001" break_level="SPACE_BREAK"/>
@@ -630,7 +630,7 @@
   <word text="&#39;s" break_level="NO_BREAK"/>
   <word text="slope" lemma="slope" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1291471.001" break_level="SPACE_BREAK"/>
   <word text="?" break_level="NO_BREAK"/>
-  <word text="Should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SENTENCE_BREAK"/>
+  <word text="Should" lemma="should" pos="VERB" break_level="SENTENCE_BREAK"/>
   <word text="n&#39;t" break_level="NO_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
   <word text="canoe" break_level="SPACE_BREAK"/>
@@ -657,7 +657,7 @@
   <word text="beautiful" break_level="SPACE_BREAK"/>
   <word text="scenery" break_level="SPACE_BREAK"/>
   <word text="?" break_level="NO_BREAK"/>
-  <word text="Should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SENTENCE_BREAK"/>
+  <word text="Should" lemma="should" pos="VERB" break_level="SENTENCE_BREAK"/>
   <word text="n&#39;t" break_level="NO_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
   <word text="learn" lemma="learn" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1262669.001" break_level="SPACE_BREAK"/>
@@ -682,7 +682,7 @@
   <word text="frozen" break_level="SPACE_BREAK"/>
   <word text="waterfall" break_level="SPACE_BREAK"/>
   <word text="?" break_level="NO_BREAK"/>
-  <word text="Should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SENTENCE_BREAK"/>
+  <word text="Should" lemma="should" pos="VERB" break_level="SENTENCE_BREAK"/>
   <word text="n&#39;t" break_level="NO_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
   <word text="learn" lemma="learn" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1262669.001" break_level="SPACE_BREAK"/>

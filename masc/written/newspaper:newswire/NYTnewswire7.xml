@@ -869,7 +869,7 @@
   <word text="life" break_level="SPACE_BREAK"/>
   <word text="cycles" lemma="cycle" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1237967.001" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.001" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="they" break_level="SPACE_BREAK"/>
   <word text="respond" break_level="SPACE_BREAK"/>
   <word text="to" break_level="SPACE_BREAK"/>

@@ -167,7 +167,7 @@
   <word text="He" break_level="SENTENCE_BREAK"/>
   <word text="says" lemma="say" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1287486.001" break_level="SPACE_BREAK"/>
   <word text="we" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="come" lemma="come" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234657.001" break_level="SPACE_BREAK"/>
   <word text="through" break_level="SPACE_BREAK"/>
   <word text="now" lemma="now" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272258.001" break_level="SPACE_BREAK"/>
@@ -464,7 +464,7 @@
   <word text="She" break_level="SENTENCE_BREAK"/>
   <word text="seemed" break_level="SPACE_BREAK"/>
   <word text="so" lemma="so" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1291940.001" break_level="SPACE_BREAK"/>
-  <word text="depthless" lemma="depthless" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1239579.002" break_level="LINE_BREAK"/>
+  <word text="depthless" lemma="depthless" pos="ADJ" break_level="LINE_BREAK"/>
   <word text="-" break_level="SPACE_BREAK"/>
   <word text="self" lemma="self" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1288655.001" break_level="SPACE_BREAK"/>
   <word text="conscious" break_level="SPACE_BREAK"/>
@@ -772,7 +772,7 @@
   <word text="and" break_level="SPACE_BREAK"/>
   <word text="2" break_level="SPACE_BREAK"/>
   <word text="staffers" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="prepare" lemma="prepare" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280407.001" break_level="SPACE_BREAK"/>
   <word text="to" break_level="SPACE_BREAK"/>
   <word text="be" break_level="SPACE_BREAK"/>

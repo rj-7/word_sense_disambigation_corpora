@@ -130,7 +130,7 @@
   <word text=")" break_level="NO_BREAK"/>
   <word text="Your" break_level="PARAGRAPH_BREAK"/>
   <word text="account" lemma="account" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1219574.005" break_level="SPACE_BREAK"/>
-  <word text="shall" lemma="shall" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1289638.003" break_level="SPACE_BREAK"/>
+  <word text="shall" lemma="shall" pos="VERB"  break_level="SPACE_BREAK"/>
   <word text="remain" break_level="SPACE_BREAK"/>
   <word text="active" lemma="active" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1219797.008" break_level="SPACE_BREAK"/>
   <word text="after" break_level="SPACE_BREAK"/>

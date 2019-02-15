@@ -2219,7 +2219,7 @@
   <word text="diverted" lemma="divert" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241134.004" break_level="SPACE_BREAK"/>
   <word text="by" break_level="SPACE_BREAK"/>
   <word text="someone" break_level="SPACE_BREAK"/>
-  <word text="else" lemma="else" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1243711.002" break_level="SPACE_BREAK"/>
+  <word text="else" lemma="else" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="&#39;s" break_level="NO_BREAK"/>
   <word text="long" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>

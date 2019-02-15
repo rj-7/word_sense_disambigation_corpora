@@ -7,7 +7,7 @@
   <word text="blog" break_level="NO_BREAK"/>
   <word text="/" break_level="NO_BREAK"/>
   <word text="vampires.txt" break_level="NO_BREAK"/>
-  <word text="How" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="PARAGRAPH_BREAK"/>
+  <word text="How" lemma="how" pos="ADV"   break_level="PARAGRAPH_BREAK"/>
   <word text="soon" lemma="soon" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1292395.001" break_level="SPACE_BREAK"/>
   <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
   <word text="now" lemma="now" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272258.001" break_level="SPACE_BREAK"/>
@@ -211,7 +211,7 @@
   <word text="to" break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="point" lemma="point" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1279055.011" break_level="SPACE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.005" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="it" break_level="SPACE_BREAK"/>
   <word text="&#39;s" break_level="NO_BREAK"/>
   <word text="almost" break_level="SPACE_BREAK"/>

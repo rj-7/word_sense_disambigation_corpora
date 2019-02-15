@@ -193,7 +193,7 @@
   <word text="-" break_level="SPACE_BREAK"/>
   <word text="God" break_level="SPACE_BREAK"/>
   <word text="knows" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV" break_level="SPACE_BREAK"/>
   <word text="far" lemma="far" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1246250.003" break_level="SPACE_BREAK"/>
   <word text="that" break_level="SPACE_BREAK"/>
   <word text="had" break_level="SPACE_BREAK"/>

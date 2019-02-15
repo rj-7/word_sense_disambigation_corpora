@@ -20,7 +20,7 @@
   <word text="reminds" break_level="SPACE_BREAK"/>
   <word text="me" break_level="SPACE_BREAK"/>
   <word text="of" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="different" lemma="different" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1240277.001" break_level="SPACE_BREAK"/>
   <word text="life" lemma="life" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263339.001" break_level="SPACE_BREAK"/>
   <word text="is" break_level="SPACE_BREAK"/>

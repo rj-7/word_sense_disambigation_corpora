@@ -568,7 +568,7 @@
   <word text="are" break_level="SPACE_BREAK"/>
   <word text="not" break_level="SPACE_BREAK"/>
   <word text="only" lemma="only" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273443.001" break_level="SPACE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.006" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="press" lemma="press" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280512.025" break_level="SPACE_BREAK"/>
   <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>

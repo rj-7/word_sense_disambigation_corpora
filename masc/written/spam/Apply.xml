@@ -164,7 +164,7 @@
   <word text="for" break_level="SPACE_BREAK"/>
   <word text="this" break_level="SPACE_BREAK"/>
   <word text="opening" lemma="opening" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273558.002" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="please" break_level="SPACE_BREAK"/>
   <word text="email" break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>

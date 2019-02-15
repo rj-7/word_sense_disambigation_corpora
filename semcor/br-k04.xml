@@ -22,7 +22,7 @@
   <word text="there" break_level="SPACE_BREAK"/>
   <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.001" break_level="SPACE_BREAK"/>
   <word text="nothing" break_level="SPACE_BREAK"/>
-  <word text="else" lemma="else" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1243711.001" break_level="SPACE_BREAK"/>
+  <word text="else" lemma="else" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="to" break_level="SPACE_BREAK"/>
   <word text="do" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>

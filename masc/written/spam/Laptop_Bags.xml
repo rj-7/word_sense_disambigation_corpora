@@ -66,7 +66,7 @@
   <word text="Designs" lemma="design" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1239718.001" break_level="SPACE_BREAK"/>
   <word text="®" break_level="NO_BREAK"/>
   <word text="offers" break_level="SPACE_BREAK"/>
-  <word text="fashionistas" lemma="fashionista" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1246348.002" break_level="SPACE_BREAK"/>
+  <word text="fashionistas" lemma="fashionista" pos="NOUN" break_level="SPACE_BREAK"/>
   <word text="classic" break_level="SPACE_BREAK"/>
   <word text="and" break_level="SPACE_BREAK"/>
   <word text="stylish" break_level="LINE_BREAK"/>
@@ -567,7 +567,7 @@
   <word text="photo" break_level="SPACE_BREAK"/>
   <word text="-" break_level="NO_BREAK"/>
   <word text="snapping" lemma="snap" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1291778.008" break_level="NO_BREAK"/>
-  <word text="fashionista" lemma="fashionista" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1246348.002" break_level="SPACE_BREAK"/>
+  <word text="fashionista" lemma="fashionista" pos="NOUN"  break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
   <word text="bags" lemma="bag" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1224435.001" break_level="SPACE_BREAK"/>
   <word text="with" break_level="SPACE_BREAK"/>

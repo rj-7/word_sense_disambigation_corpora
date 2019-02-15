@@ -363,7 +363,7 @@
   <word text="more" break_level="SPACE_BREAK"/>
   <word text="are" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
   <word text="left" lemma="leave" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1262701.010" break_level="SPACE_BREAK"/>
-  <word text="unserved" lemma="unserved" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1302691.001" break_level="SPACE_BREAK"/>
+  <word text="unserved" lemma="unserved" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
   <word text="Over" break_level="SENTENCE_BREAK"/>
   <word text="235" break_level="SPACE_BREAK"/>

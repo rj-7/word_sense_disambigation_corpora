@@ -627,7 +627,7 @@
   <word text="decide" break_level="SPACE_BREAK"/>
   <word text="whether" break_level="SPACE_BREAK"/>
   <word text="Computer" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
   <word text="a" break_level="SPACE_BREAK"/>
   <word text="masculine" lemma="masculine" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266323.003" break_level="SPACE_BREAK"/>
@@ -654,7 +654,7 @@
   <word text="decided" break_level="SPACE_BREAK"/>
   <word text="that" break_level="SPACE_BREAK"/>
   <word text="computers" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="definitely" break_level="SPACE_BREAK"/>
   <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
   <word text="of" break_level="SPACE_BREAK"/>
@@ -753,7 +753,7 @@
   <word text="concluded" lemma="conclude" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1235148.004" break_level="SPACE_BREAK"/>
   <word text="that" break_level="SPACE_BREAK"/>
   <word text="computers" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
   <word text="masculine" lemma="masculine" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266323.003" break_level="SPACE_BREAK"/>
   <word text="(" break_level="NO_BREAK"/>
@@ -999,7 +999,7 @@
   <word text="him" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
   <word text="``" break_level="SPACE_BREAK"/>
-  <word text="How" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.001" break_level="NO_BREAK"/>
+  <word text="How" lemma="how" pos="ADV"  break_level="NO_BREAK"/>
   <word text="do" lemma="do" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241237.035" break_level="SPACE_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
   <word text="expect" break_level="SPACE_BREAK"/>

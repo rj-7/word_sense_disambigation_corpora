@@ -152,7 +152,7 @@
   <word text="." break_level="NO_BREAK"/>
   <word text="No" break_level="SENTENCE_BREAK"/>
   <word text="matter" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV" break_level="SPACE_BREAK"/>
   <word text="well" lemma="well" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305640.010" break_level="SPACE_BREAK"/>
   <word text="work" break_level="SPACE_BREAK"/>
   <word text="is" break_level="SPACE_BREAK"/>

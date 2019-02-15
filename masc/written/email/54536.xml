@@ -181,7 +181,7 @@
   <word text="1" break_level="SPACE_BREAK"/>
   <word text=")" break_level="NO_BREAK"/>
   <word text="What" break_level="PARAGRAPH_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
   <word text="do" lemma="do" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241237.001" break_level="SPACE_BREAK"/>
   <word text="?" break_level="NO_BREAK"/>
@@ -801,7 +801,7 @@
   <word text="grounds" lemma="ground" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1252457.011" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
   <word text="I" break_level="SENTENCE_BREAK"/>
-  <word text="shall" lemma="shall" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1289638.001" break_level="SPACE_BREAK"/>
+  <word text="shall" lemma="shall" pos="VERB"  break_level="SPACE_BREAK"/>
   <word text="fax" break_level="SPACE_BREAK"/>
   <word text="to" break_level="SPACE_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>

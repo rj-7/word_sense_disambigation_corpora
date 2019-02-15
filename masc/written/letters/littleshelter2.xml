@@ -47,7 +47,7 @@
   <word text="call" lemma="call" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1230162.015" break_level="SPACE_BREAK"/>
   <word text="home" lemma="home" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1255439.001" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
-  <word text="Where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.001" break_level="SENTENCE_BREAK"/>
+  <word text="Where" lemma="where" pos="ADV"  break_level="SENTENCE_BREAK"/>
   <word text="will" lemma="will" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1306429.001" break_level="SPACE_BREAK"/>
   <word text="these" break_level="SPACE_BREAK"/>
   <word text="pawprints" break_level="SPACE_BREAK"/>
@@ -95,7 +95,7 @@
   <word text="might" lemma="might" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1267902.010" break_level="SPACE_BREAK"/>
   <word text="be" break_level="SPACE_BREAK"/>
   <word text="wondering" lemma="wonder" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1306888.006" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="much" break_level="SPACE_BREAK"/>
   <word text="to" break_level="SPACE_BREAK"/>
   <word text="send" lemma="send" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1289024.001" break_level="SPACE_BREAK"/>

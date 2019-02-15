@@ -683,7 +683,7 @@
   <word text="regarding" break_level="SPACE_BREAK"/>
   <word text="alcohol" break_level="SPACE_BREAK"/>
   <word text="regulations" lemma="regulation" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283973.001" break_level="LINE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="be" break_level="SPACE_BREAK"/>
   <word text="decided" break_level="SPACE_BREAK"/>
   <word text="by" break_level="SPACE_BREAK"/>
@@ -1128,7 +1128,7 @@
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="state" lemma="state" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1293954.006" break_level="SPACE_BREAK"/>
   <word text="law" lemma="law" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1262470.001" break_level="SPACE_BREAK"/>
-  <word text="shall" lemma="shall" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1289638.003" break_level="LINE_BREAK"/>
+  <word text="shall" lemma="shall" pos="VERB"  break_level="LINE_BREAK"/>
   <word text="be" break_level="SPACE_BREAK"/>
   <word text="upheld" break_level="SPACE_BREAK"/>
   <word text="..." break_level="NO_BREAK"/>
@@ -1530,7 +1530,7 @@
   <word text="``" break_level="PARAGRAPH_BREAK"/>
   <word text="Unelected" break_level="NO_BREAK"/>
   <word text="judges" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="not" lemma="not" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272156.001" break_level="SPACE_BREAK"/>
   <word text="set" lemma="set" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1289370.016" break_level="SPACE_BREAK"/>
   <word text="alcohol" break_level="SPACE_BREAK"/>
@@ -1629,7 +1629,7 @@
   <word text="state" lemma="state" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1293954.006" break_level="SPACE_BREAK"/>
   <word text="alcohol" break_level="SPACE_BREAK"/>
   <word text="laws" lemma="law" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1262470.001" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="in" break_level="SPACE_BREAK"/>
   <word text="no" break_level="SPACE_BREAK"/>
   <word text="way" lemma="way" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305429.001" break_level="SPACE_BREAK"/>
@@ -1695,7 +1695,7 @@
   <word text="concerns" lemma="concern" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1235108.007" break_level="SPACE_BREAK"/>
   <word text="can" lemma="can" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1230339.001" break_level="SPACE_BREAK"/>
   <word text="and" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="be" break_level="SPACE_BREAK"/>
   <word text="addressed" lemma="address" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1219905.012" break_level="SPACE_BREAK"/>
   <word text="in" break_level="LINE_BREAK"/>
@@ -1746,7 +1746,7 @@
   <word text="and" break_level="SPACE_BREAK"/>
   <word text="that" break_level="SPACE_BREAK"/>
   <word text="we" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="wait" lemma="wait" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1304874.001" break_level="SPACE_BREAK"/>
   <word text="for" break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
@@ -2499,7 +2499,7 @@
   <word text="In" break_level="SENTENCE_BREAK"/>
   <word text="most" break_level="SPACE_BREAK"/>
   <word text="cases" break_level="SPACE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.005" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="state" lemma="state" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1293954.006" break_level="SPACE_BREAK"/>
   <word text="laws" lemma="law" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1262470.001" break_level="SPACE_BREAK"/>
   <word text="allow" lemma="allow" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1221081.001" break_level="LINE_BREAK"/>

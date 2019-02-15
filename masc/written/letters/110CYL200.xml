@@ -126,7 +126,7 @@
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="Blue" break_level="SPACE_BREAK"/>
   <word text="Triangle" break_level="SPACE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.005" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="he" break_level="SPACE_BREAK"/>
   <word text="consulted" break_level="SPACE_BREAK"/>
   <word text="Goodwill" break_level="SPACE_BREAK"/>

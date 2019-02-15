@@ -250,7 +250,7 @@
   <word text="numerous" break_level="SPACE_BREAK"/>
   <word text="community" lemma="community" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234849.006" break_level="SPACE_BREAK"/>
   <word text="collaborations" lemma="collaboration" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234406.001" break_level="LINE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.006" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="we" break_level="SPACE_BREAK"/>
   <word text="regularly" break_level="SPACE_BREAK"/>
   <word text="raise" lemma="raise" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1282868.008" break_level="SPACE_BREAK"/>
@@ -632,7 +632,7 @@
   <word text="in" break_level="SPACE_BREAK"/>
   <word text="our" break_level="SPACE_BREAK"/>
   <word text="community" lemma="community" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234849.006" break_level="SPACE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.005" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="young" break_level="SPACE_BREAK"/>
   <word text="people" lemma="people" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276782.001" break_level="SPACE_BREAK"/>
   <word text="can" lemma="can" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1230339.001" break_level="LINE_BREAK"/>

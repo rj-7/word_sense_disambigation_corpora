@@ -11,7 +11,7 @@
   <word text="Lebron" break_level="NO_BREAK"/>
   <word text="-" break_level="NO_BREAK"/>
   <word text="James.txt" break_level="NO_BREAK"/>
-  <word text="How" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="PARAGRAPH_BREAK"/>
+  <word text="How" lemma="how" pos="ADV"   break_level="PARAGRAPH_BREAK"/>
   <word text="soon" lemma="soon" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1292395.001" break_level="SPACE_BREAK"/>
   <word text="is" break_level="SPACE_BREAK"/>
   <word text="now" lemma="now" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272258.001" break_level="SPACE_BREAK"/>
@@ -214,7 +214,7 @@
   <word text="has" break_level="LINE_BREAK"/>
   <word text="maybe" break_level="SPACE_BREAK"/>
   <word text="misread" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"   break_level="SPACE_BREAK"/>
   <word text="quickly" break_level="SPACE_BREAK"/>
   <word text="sentiment" lemma="sentiment" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1289112.001" break_level="SPACE_BREAK"/>
   <word text="can" lemma="can" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1230339.001" break_level="SPACE_BREAK"/>
@@ -420,7 +420,7 @@
   <word text="in" break_level="SPACE_BREAK"/>
   <word text="a" break_level="SPACE_BREAK"/>
   <word text="position" lemma="position" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1279710.009" break_level="SPACE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.005" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="if" break_level="SPACE_BREAK"/>
   <word text="he" break_level="SPACE_BREAK"/>
   <word text="leaves" lemma="leave" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1262701.001" break_level="SPACE_BREAK"/>
@@ -528,7 +528,7 @@
   <word text="." break_level="NO_BREAK"/>
   <word text="Perhaps" break_level="SENTENCE_BREAK"/>
   <word text="Lebron" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="have" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.034" break_level="SPACE_BREAK"/>
   <word text="hired" lemma="hire" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1255094.001" break_level="SPACE_BREAK"/>
   <word text="a" break_level="SPACE_BREAK"/>

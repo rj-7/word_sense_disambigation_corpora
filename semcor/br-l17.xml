@@ -2274,7 +2274,7 @@
   <word text="$" break_level="SPACE_BREAK"/>
   <word text="79.89" break_level="SPACE_BREAK"/>
   <word text="nothing" break_level="SPACE_BREAK"/>
-  <word text="down" lemma="down" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241795.023" break_level="SPACE_BREAK"/>
+  <word text="down" lemma="down" pos="ADV" break_level="SPACE_BREAK"/>
   <word text="special" break_level="SPACE_BREAK"/>
   <word text="!" break_level="NO_BREAK"/>
   <word text="&quot;" break_level="PARAGRAPH_BREAK"/>
@@ -2339,7 +2339,7 @@
   <word text="on" break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="money" break_level="SPACE_BREAK"/>
-  <word text="down" lemma="down" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241795.023" break_level="SPACE_BREAK"/>
+  <word text="down" lemma="down" pos="ADV" break_level="SPACE_BREAK"/>
   <word text="!" break_level="NO_BREAK"/>
   <word text="A" break_level="SENTENCE_BREAK"/>
   <word text="time" break_level="SPACE_BREAK"/>

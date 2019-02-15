@@ -514,7 +514,7 @@
   <word text="both" break_level="SPACE_BREAK"/>
   <word text="doctors" lemma="doctor" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241274.001" break_level="SPACE_BREAK"/>
   <word text="authenticate" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.006" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="they" break_level="SPACE_BREAK"/>
   <word text="have" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.034" break_level="SPACE_BREAK"/>
   <word text="devoted" lemma="devote" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1239947.001" break_level="SPACE_BREAK"/>

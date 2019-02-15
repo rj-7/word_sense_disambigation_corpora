@@ -75,7 +75,7 @@
   <word text="." break_level="NO_BREAK"/>
   <word text="Depending" lemma="depend" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1239513.001" break_level="SENTENCE_BREAK"/>
   <word text="upon" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"   break_level="SPACE_BREAK"/>
   <word text="many" break_level="SPACE_BREAK"/>
   <word text="warrants" lemma="warrant" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305132.001" break_level="SPACE_BREAK"/>
   <word text="and" break_level="SPACE_BREAK"/>

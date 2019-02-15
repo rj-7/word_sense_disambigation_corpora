@@ -122,7 +122,7 @@
   <word text="one" break_level="SPACE_BREAK"/>
   <word text="of" break_level="SPACE_BREAK"/>
   <word text="minimalism" lemma="minimalism" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1268162.001" break_level="SPACE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.005" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="black" break_level="SPACE_BREAK"/>
   <word text="and" break_level="SPACE_BREAK"/>
   <word text="white" lemma="white" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1306086.001" break_level="SPACE_BREAK"/>
@@ -507,7 +507,7 @@
   <word text="Izutsu" break_level="SPACE_BREAK"/>
   <word text="explains" break_level="SPACE_BREAK"/>
   <word text="though" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.001" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="this" break_level="SPACE_BREAK"/>
   <word text="ultimate" break_level="LINE_BREAK"/>
   <word text="state" lemma="state" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1293954.001" break_level="SPACE_BREAK"/>

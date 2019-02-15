@@ -66,7 +66,7 @@
   <word text="SIR" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
   <word text="I" break_level="PARAGRAPH_BREAK"/>
-  <word text="SHALL" lemma="shall" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1289638.001" break_level="SPACE_BREAK"/>
+  <word text="SHALL" lemma="shall" pos="VERB"  break_level="SPACE_BREAK"/>
   <word text="BE" break_level="SPACE_BREAK"/>
   <word text="COMING" lemma="come" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234657.001" break_level="SPACE_BREAK"/>
   <word text="TO" break_level="SPACE_BREAK"/>
@@ -140,7 +140,7 @@
   <word text="THE" break_level="SPACE_BREAK"/>
   <word text="MEETING" lemma="meeting" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266936.001" break_level="SPACE_BREAK"/>
   <word text="I" break_level="SPACE_BREAK"/>
-  <word text="SHALL" lemma="shall" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1289638.001" break_level="SPACE_BREAK"/>
+  <word text="SHALL" lemma="shall" pos="VERB"  break_level="SPACE_BREAK"/>
   <word text="THEN" lemma="then" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1298166.002" break_level="SPACE_BREAK"/>
   <word text="PROCEED" break_level="LINE_BREAK"/>
   <word text="TO" break_level="SPACE_BREAK"/>
@@ -156,7 +156,7 @@
   <word text="AND" break_level="SPACE_BREAK"/>
   <word text="THE" break_level="SPACE_BREAK"/>
   <word text="ADDRESS" lemma="address" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1219905.001" break_level="SPACE_BREAK"/>
-  <word text="WHERE" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.005" break_level="SPACE_BREAK"/>
+  <word text="WHERE" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="YOU" break_level="SPACE_BREAK"/>
   <word text="WANT" lemma="want" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305040.001" break_level="SPACE_BREAK"/>
   <word text="ME" break_level="SPACE_BREAK"/>

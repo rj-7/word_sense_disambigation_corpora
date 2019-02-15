@@ -123,7 +123,7 @@
   <word text="Pont" break_level="SPACE_BREAK"/>
   <word text="&quot;" break_level="SPACE_BREAK"/>
   <word text="compared" lemma="compare" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234902.001" break_level="NO_BREAK"/>
-  <word text="favorably" lemma="favorably" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1418170.002" break_level="SPACE_BREAK"/>
+  <word text="favorably" lemma="favorably" pos="ADV" break_level="SPACE_BREAK"/>
   <word text="&quot;" break_level="NO_BREAK"/>
   <word text="with" break_level="SPACE_BREAK"/>
   <word text="purchases" lemma="purchase" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1281893.004" break_level="SPACE_BREAK"/>

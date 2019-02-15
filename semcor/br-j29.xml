@@ -1498,7 +1498,7 @@
   <word text="beginning" break_level="SPACE_BREAK"/>
   <word text="reading" lemma="reading" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283259.001" break_level="SPACE_BREAK"/>
   <word text="compares" lemma="compare" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234902.001" break_level="SPACE_BREAK"/>
-  <word text="favorably" lemma="favorably" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1418170.002" break_level="SPACE_BREAK"/>
+  <word text="favorably" lemma="favorably" pos="ADV" break_level="SPACE_BREAK"/>
   <word text="with" break_level="SPACE_BREAK"/>
   <word text="that" break_level="SPACE_BREAK"/>
   <word text="of" break_level="SPACE_BREAK"/>

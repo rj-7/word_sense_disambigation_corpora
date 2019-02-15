@@ -3159,7 +3159,7 @@
   <word text="of" break_level="SPACE_BREAK"/>
   <word text="future" break_level="LINE_BREAK"/>
   <word text="guidelines" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="take" break_level="SPACE_BREAK"/>
   <word text="YHL" break_level="SPACE_BREAK"/>
   <word text="or" break_level="SPACE_BREAK"/>
@@ -3298,7 +3298,7 @@
   <word text="that" break_level="SPACE_BREAK"/>
   <word text="such" break_level="SPACE_BREAK"/>
   <word text="evaluations" break_level="LINE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="be" break_level="SPACE_BREAK"/>
   <word text="considered" break_level="SPACE_BREAK"/>
   <word text="critically" break_level="SPACE_BREAK"/>
@@ -3808,7 +3808,7 @@
   <word text="desirable" break_level="SPACE_BREAK"/>
   <word text="weight" lemma="weight" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305598.001" break_level="SPACE_BREAK"/>
   <word text="guidelines" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="include" lemma="include" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1257529.001" break_level="SPACE_BREAK"/>
   <word text="measures" lemma="measure" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266792.022" break_level="LINE_BREAK"/>
   <word text="of" break_level="SPACE_BREAK"/>

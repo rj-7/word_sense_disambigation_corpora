@@ -206,7 +206,7 @@
   <word text="or" break_level="SPACE_BREAK"/>
   <word text="not" lemma="not" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272156.003" break_level="SPACE_BREAK"/>
   <word text="Israel" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="continue" lemma="continue" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1235657.001" break_level="SPACE_BREAK"/>
   <word text="to" break_level="SPACE_BREAK"/>
   <word text="maintain" lemma="maintain" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1265437.001" break_level="SPACE_BREAK"/>
@@ -668,7 +668,7 @@
   <word text="to" break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="book" lemma="book" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1227849.001" break_level="SPACE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.006" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="he" break_level="SPACE_BREAK"/>
   <word text="set" lemma="set" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1289370.001" break_level="SPACE_BREAK"/>
   <word text="it" break_level="SPACE_BREAK"/>
@@ -755,7 +755,7 @@
   <word text="a" break_level="SPACE_BREAK"/>
   <word text="victory" break_level="SPACE_BREAK"/>
   <word text="?" break_level="NO_BREAK"/>
-  <word text="How" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.004" break_level="SENTENCE_BREAK"/>
+  <word text="How" lemma="how" pos="ADV"  break_level="SENTENCE_BREAK"/>
   <word text="odd" lemma="odd" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272881.001" break_level="SPACE_BREAK"/>
   <word text="--" break_level="NO_BREAK"/>
   <word text="and" break_level="NO_BREAK"/>

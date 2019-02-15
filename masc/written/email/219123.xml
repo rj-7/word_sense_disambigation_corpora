@@ -70,7 +70,7 @@
   <word text="Jones" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
   <word text="Comments" break_level="PARAGRAPH_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.015" break_level="SPACE_BREAK"/>
   <word text="received" lemma="receive" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283407.001" break_level="SPACE_BREAK"/>
   <word text="no" lemma="no" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1271652.009" break_level="SPACE_BREAK"/>
@@ -137,7 +137,7 @@
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="testimony" break_level="SPACE_BREAK"/>
   <word text="and" break_level="SPACE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.001" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
   <word text="would" break_level="SPACE_BREAK"/>
   <word text="place" lemma="place" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1278491.024" break_level="SPACE_BREAK"/>

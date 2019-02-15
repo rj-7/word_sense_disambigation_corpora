@@ -588,7 +588,7 @@
   <word text=";" break_level="NO_BREAK"/>
   <word text="therefore" break_level="SPACE_BREAK"/>
   <word text="they" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="join" break_level="SPACE_BREAK"/>
   <word text="these" break_level="SPACE_BREAK"/>
   <word text="new" lemma="new" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1271187.007" break_level="SPACE_BREAK"/>
@@ -3344,7 +3344,7 @@
   <word text="traffickers" break_level="SPACE_BREAK"/>
   <word text="and" break_level="SPACE_BREAK"/>
   <word text="guerrillas" break_level="SPACE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.006" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="government" lemma="government" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1251680.001" break_level="SPACE_BREAK"/>
   <word text="itself" break_level="SPACE_BREAK"/>

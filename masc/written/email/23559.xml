@@ -213,7 +213,7 @@
   <word text="Note" lemma="note" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272172.001" break_level="PARAGRAPH_BREAK"/>
   <word text=":" break_level="NO_BREAK"/>
   <word text="AA" break_level="SENTENCE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="also" break_level="SPACE_BREAK"/>
   <word text="use" lemma="use" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1303226.001" break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
@@ -235,7 +235,7 @@
   <word text="updating" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
   <word text="We" break_level="SENTENCE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="also" break_level="SPACE_BREAK"/>
   <word text="consider" break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
@@ -275,7 +275,7 @@
   <word text="." break_level="NO_BREAK"/>
   <word text="Details" lemma="detail" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1239806.001" break_level="PARAGRAPH_BREAK"/>
   <word text="on" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.001" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="to" break_level="SPACE_BREAK"/>
   <word text="access" lemma="access" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1219525.008" break_level="SPACE_BREAK"/>
   <word text="for" break_level="SPACE_BREAK"/>

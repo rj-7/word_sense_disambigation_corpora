@@ -216,7 +216,7 @@
   <word text="second" break_level="SPACE_BREAK"/>
   <word text="stage" lemma="stage" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1293716.001" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.005" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="they" break_level="SPACE_BREAK"/>
   <word text="competed" break_level="SPACE_BREAK"/>
   <word text="against" break_level="SPACE_BREAK"/>
@@ -1042,7 +1042,7 @@
   <word text="in" break_level="SPACE_BREAK"/>
   <word text="Paris" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.005" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="books" lemma="book" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1227849.001" break_level="SPACE_BREAK"/>
   <word text="are" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.015" break_level="SPACE_BREAK"/>
@@ -1084,7 +1084,7 @@
   <word text="of" break_level="SPACE_BREAK"/>
   <word text="course" break_level="SPACE_BREAK"/>
   <word text=")" break_level="NO_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.005" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
   <word text="can" lemma="can" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1230339.001" break_level="SPACE_BREAK"/>
   <word text="admire" break_level="SPACE_BREAK"/>
@@ -1823,7 +1823,7 @@
   <word text="International" break_level="SPACE_BREAK"/>
   <word text="Style" break_level="SPACE_BREAK"/>
   <word text="practitioners" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="have" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.034" break_level="SPACE_BREAK"/>
   <word text="been" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
   <word text="expected" break_level="SPACE_BREAK"/>
@@ -7378,7 +7378,7 @@
   <word text="New" break_level="SPACE_BREAK"/>
   <word text="Mexico" break_level="SPACE_BREAK"/>
   <word text="--" break_level="NO_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.005" break_level="NO_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="NO_BREAK"/>
   <word text="Norten" break_level="SPACE_BREAK"/>
   <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.014" break_level="SPACE_BREAK"/>
   <word text="building" break_level="SPACE_BREAK"/>

@@ -62,7 +62,7 @@
   <word text="shapes" lemma="shape" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1289693.001" break_level="SPACE_BREAK"/>
   <word text="and" break_level="SPACE_BREAK"/>
   <word text="shadows" lemma="shadow" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1289582.001" break_level="SPACE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.005" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
   <word text="never" lemma="never" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1271178.002" break_level="LINE_BREAK"/>
   <word text="know" lemma="know" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1261363.001" break_level="SPACE_BREAK"/>

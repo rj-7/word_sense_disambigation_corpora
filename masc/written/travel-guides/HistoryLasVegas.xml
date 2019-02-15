@@ -2510,7 +2510,7 @@
   <word text="mob" break_level="SPACE_BREAK"/>
   <word text="casinos" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.005" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="illegal" break_level="LINE_BREAK"/>
   <word text="skimming" lemma="skim" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1291143.001" break_level="SPACE_BREAK"/>
   <word text="of" break_level="SPACE_BREAK"/>

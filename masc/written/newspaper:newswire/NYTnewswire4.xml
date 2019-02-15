@@ -332,7 +332,7 @@
   <word text="," break_level="NO_BREAK"/>
   <word text="they" break_level="SPACE_BREAK"/>
   <word text="know" lemma="know" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1261363.001" break_level="SPACE_BREAK"/>
-  <word text="how" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.001" break_level="SPACE_BREAK"/>
+  <word text="how" lemma="how" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="to" break_level="SPACE_BREAK"/>
   <word text="win" lemma="win" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1306499.001" break_level="SPACE_BREAK"/>
   <word text="and" break_level="LINE_BREAK"/>

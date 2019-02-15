@@ -329,7 +329,7 @@
   <word text="dog" lemma="dog" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241321.001" break_level="SPACE_BREAK"/>
   <word text="his" break_level="SPACE_BREAK"/>
   <word text="size" lemma="size" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1291061.001" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="weigh" lemma="weigh" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305594.001" break_level="SPACE_BREAK"/>
   <word text="--" break_level="SPACE_BREAK"/>
   <word text="and" break_level="SPACE_BREAK"/>
@@ -416,7 +416,7 @@
   <word text="In" break_level="SENTENCE_BREAK"/>
   <word text="a" break_level="SPACE_BREAK"/>
   <word text="world" lemma="world" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1307108.001" break_level="SPACE_BREAK"/>
-  <word text="where" lemma="where" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305971.005" break_level="SPACE_BREAK"/>
+  <word text="where" lemma="where" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="cruelty" break_level="SPACE_BREAK"/>
   <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
   <word text="common" lemma="common" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234788.001" break_level="SPACE_BREAK"/>

@@ -160,7 +160,7 @@
   <word text="left" lemma="left" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1262777.001" break_level="SPACE_BREAK"/>
   <word text="eye" lemma="eye" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1245832.001" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
-  <word text="How" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.001" break_level="PARAGRAPH_BREAK"/>
+  <word text="How" lemma="how" pos="ADV"  break_level="PARAGRAPH_BREAK"/>
   <word text="To" break_level="SPACE_BREAK"/>
   <word text="Write" lemma="write" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1307274.008" break_level="SPACE_BREAK"/>
   <word text="Good" break_level="SPACE_BREAK"/>
@@ -269,7 +269,7 @@
   <word text="11" break_level="SENTENCE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
   <word text="One" break_level="SENTENCE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="never" lemma="never" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1271178.002" break_level="SPACE_BREAK"/>
   <word text="generalize" lemma="generalize" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1250427.002" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
@@ -381,7 +381,7 @@
   <word text="The" break_level="SENTENCE_BREAK"/>
   <word text="passive" lemma="passive" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1275956.006" break_level="SPACE_BREAK"/>
   <word text="voice" lemma="voice" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1304594.014" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="not" lemma="not" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272156.001" break_level="SPACE_BREAK"/>
   <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.015" break_level="SPACE_BREAK"/>
   <word text="used" lemma="use" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1303226.001" break_level="SPACE_BREAK"/>
@@ -420,7 +420,7 @@
   <word text="sings" lemma="sing" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290869.001" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
   <word text="it" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.015" break_level="SPACE_BREAK"/>
   <word text="derailed" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
@@ -717,7 +717,7 @@
   <word text="47" break_level="SENTENCE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
   <word text="Everyone" break_level="SENTENCE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="be" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
   <word text="careful" break_level="SPACE_BREAK"/>
   <word text="to" break_level="SPACE_BREAK"/>

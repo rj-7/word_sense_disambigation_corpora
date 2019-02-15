@@ -31,7 +31,7 @@
   <word text="To" break_level="SPACE_BREAK"/>
   <word text="Register" break_level="SPACE_BREAK"/>
   <word text=":" break_level="NO_BREAK"/>
-  <word text="How" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.001" break_level="SENTENCE_BREAK"/>
+  <word text="How" lemma="how" pos="ADV"  break_level="SENTENCE_BREAK"/>
   <word text="To" break_level="SPACE_BREAK"/>
   <word text="Build" break_level="SPACE_BREAK"/>
   <word text="Donor" break_level="SPACE_BREAK"/>
@@ -58,7 +58,7 @@
   <word text="for" break_level="SPACE_BREAK"/>
   <word text=":" break_level="NO_BREAK"/>
   <word text="``" break_level="PARAGRAPH_BREAK"/>
-  <word text="How" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.001" break_level="NO_BREAK"/>
+  <word text="How" lemma="how" pos="ADV"  break_level="NO_BREAK"/>
   <word text="To" break_level="SPACE_BREAK"/>
   <word text="Build" break_level="SPACE_BREAK"/>
   <word text="Donor" break_level="SPACE_BREAK"/>
@@ -197,12 +197,12 @@
   <word text="How" break_level="SPACE_BREAK"/>
   <word text="much" break_level="SPACE_BREAK"/>
   <word text="money" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
   <word text="spend" break_level="SPACE_BREAK"/>
   <word text="&amp;" break_level="SPACE_BREAK"/>
   <word text="where" break_level="SPACE_BREAK"/>
-  <word text="should" lemma="should" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290273.001" break_level="SPACE_BREAK"/>
+  <word text="should" lemma="should" pos="VERB" break_level="SPACE_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
   <word text="spend" break_level="SPACE_BREAK"/>
   <word text="it" break_level="SPACE_BREAK"/>
@@ -721,7 +721,7 @@
   <word text="seminar" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
   <word text="``" break_level="PARAGRAPH_BREAK"/>
-  <word text="How" lemma="how" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1256048.001" break_level="NO_BREAK"/>
+  <word text="How" lemma="how" pos="ADV"  break_level="NO_BREAK"/>
   <word text="To" break_level="SPACE_BREAK"/>
   <word text="Build" break_level="SPACE_BREAK"/>
   <word text="Donor" break_level="SPACE_BREAK"/>

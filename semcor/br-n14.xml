@@ -1161,7 +1161,7 @@
   <word text="." break_level="NO_BREAK"/>
   <word text="&quot;" break_level="SENTENCE_BREAK"/>
   <word text="Where" break_level="NO_BREAK"/>
-  <word text="else" lemma="else" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1243711.002" break_level="SPACE_BREAK"/>
+  <word text="else" lemma="else" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="would" break_level="SPACE_BREAK"/>
   <word text="he" break_level="SPACE_BREAK"/>
   <word text="get" break_level="SPACE_BREAK"/>
