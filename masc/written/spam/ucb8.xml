@@ -60,7 +60,7 @@
   <word text="all" break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="cases" lemma="case" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1231100.001" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
   <word text="said" lemma="say" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1287486.001" break_level="SPACE_BREAK"/>
   <word text="to" break_level="SPACE_BREAK"/>
@@ -151,7 +151,7 @@
   <word text="passion" lemma="passion" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1275946.001" break_level="SPACE_BREAK"/>
   <word text="left" break_level="SPACE_BREAK"/>
   <word text="off" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="I" break_level="SPACE_BREAK"/>
   <word text="started" break_level="SPACE_BREAK"/>
   <word text="course" break_level="SPACE_BREAK"/>

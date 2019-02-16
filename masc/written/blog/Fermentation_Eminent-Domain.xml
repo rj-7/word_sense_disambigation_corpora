@@ -1444,7 +1444,7 @@
   <word text="&#39;s" break_level="NO_BREAK"/>
   <word text="authoress" break_level="LINE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
-  <word text="When" lemma="when" pos="CONJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.005" break_level="SENTENCE_BREAK"/>
+  <word text="When" lemma="when" pos="CONJ"  break_level="SENTENCE_BREAK"/>
   <word text="I" break_level="SPACE_BREAK"/>
   <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
   <word text="a" break_level="SPACE_BREAK"/>
@@ -2102,7 +2102,7 @@
   <word text="in" break_level="SPACE_BREAK"/>
   <word text="nomenclatures" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="when" lemma="when" pos="CONJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.005" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="CONJ"  break_level="SPACE_BREAK"/>
   <word text="one" break_level="SPACE_BREAK"/>
   <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
   <word text="striving" break_level="SPACE_BREAK"/>

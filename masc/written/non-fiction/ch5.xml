@@ -100,14 +100,14 @@
   <word text="ground" lemma="ground" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1252457.011" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
   <word text="Yet" break_level="SENTENCE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="first" lemma="first" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1247284.001" break_level="SPACE_BREAK"/>
   <word text="hard" break_level="SPACE_BREAK"/>
   <word text="frost" break_level="SPACE_BREAK"/>
   <word text="comes" lemma="come" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234657.009" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="birches" lemma="birch" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1226664.001" break_level="SPACE_BREAK"/>
   <word text="have" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.034" break_level="SPACE_BREAK"/>
@@ -120,7 +120,7 @@
   <word text="scattered" break_level="SPACE_BREAK"/>
   <word text="carelessly" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="crystals" lemma="crystal" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1237467.001" break_level="SPACE_BREAK"/>
   <word text="splint" break_level="SPACE_BREAK"/>
   <word text="shallow" break_level="SPACE_BREAK"/>
@@ -145,7 +145,7 @@
   <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
   <word text="thin" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="first" lemma="first" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1247284.001" break_level="SPACE_BREAK"/>
   <word text="phase" lemma="phase" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1277436.001" break_level="SPACE_BREAK"/>
@@ -996,7 +996,7 @@
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="skilled" break_level="SPACE_BREAK"/>
   <word text="driving" lemma="driving" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242129.004" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
   <word text="become" lemma="become" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225557.001" break_level="SPACE_BREAK"/>
   <word text="aware" break_level="SPACE_BREAK"/>
@@ -1264,7 +1264,7 @@
   <word text="v" break_level="NO_BREAK"/>
   <word text=")" break_level="NO_BREAK"/>
   <word text="something" break_level="SPACE_BREAK"/>
-  <word text="else" lemma="else" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1243711.002" break_level="SPACE_BREAK"/>
+  <word text="else" lemma="else" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
   <word text="Once" break_level="SENTENCE_BREAK"/>
   <word text="there" break_level="SPACE_BREAK"/>
@@ -1289,7 +1289,7 @@
   <word text="molecule" break_level="SPACE_BREAK"/>
   <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
   <word text="``" break_level="SPACE_BREAK"/>
-  <word text="yuck" lemma="yuck" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1307835.002" break_level="NO_BREAK"/>
+  <word text="yuck" lemma="yuck" pos="NOUN"  break_level="NO_BREAK"/>
   <word text="&#39;&#39;" break_level="NO_BREAK"/>
   <word text="or" break_level="SPACE_BREAK"/>
   <word text="``" break_level="SPACE_BREAK"/>
@@ -1361,7 +1361,7 @@
   <word text="prosper" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
   <word text="Once" break_level="SENTENCE_BREAK"/>
-  <word text="yuck" lemma="yuck" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1307835.002" break_level="SPACE_BREAK"/>
+  <word text="yuck" lemma="yuck" pos="NOUN"  break_level="SPACE_BREAK"/>
   <word text="and" break_level="SPACE_BREAK"/>
   <word text="yum" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
@@ -2418,7 +2418,7 @@
   <word text="semantics" break_level="SPACE_BREAK"/>
   <word text="of" break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
-  <word text="yuck" lemma="yuck" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1307835.002" break_level="SPACE_BREAK"/>
+  <word text="yuck" lemma="yuck" pos="NOUN"  break_level="SPACE_BREAK"/>
   <word text="or" break_level="SPACE_BREAK"/>
   <word text="yum" break_level="SPACE_BREAK"/>
   <word text="coming" lemma="come" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234657.001" break_level="SPACE_BREAK"/>
@@ -2851,7 +2851,7 @@
   <word text="autonomous" break_level="SPACE_BREAK"/>
   <word text="agents" lemma="agent" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1220395.005" break_level="SPACE_BREAK"/>
   <word text="and" break_level="SPACE_BREAK"/>
-  <word text="yuck" lemma="yuck" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1307835.002" break_level="SPACE_BREAK"/>
+  <word text="yuck" lemma="yuck" pos="NOUN"  break_level="SPACE_BREAK"/>
   <word text="and" break_level="SPACE_BREAK"/>
   <word text="yum" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
@@ -4567,7 +4567,7 @@
   <word text="refined" break_level="SPACE_BREAK"/>
   <word text="than" break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
-  <word text="yuck" lemma="yuck" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1307835.002" break_level="SPACE_BREAK"/>
+  <word text="yuck" lemma="yuck" pos="NOUN"  break_level="SPACE_BREAK"/>
   <word text="or" break_level="SPACE_BREAK"/>
   <word text="yum" break_level="SPACE_BREAK"/>
   <word text="of" break_level="SPACE_BREAK"/>
@@ -4677,7 +4677,7 @@
   <word text="&#39;s" break_level="NO_BREAK"/>
   <word text="perspective" lemma="perspective" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1277185.005" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="yuck" lemma="yuck" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1307835.002" break_level="SPACE_BREAK"/>
+  <word text="yuck" lemma="yuck" pos="NOUN"  break_level="SPACE_BREAK"/>
   <word text="or" break_level="SPACE_BREAK"/>
   <word text="yum" break_level="SPACE_BREAK"/>
   <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
@@ -5037,7 +5037,7 @@
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="next" lemma="next" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1271334.004" break_level="SPACE_BREAK"/>
   <word text="chapter" lemma="chapter" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1232115.001" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="we" break_level="SPACE_BREAK"/>
   <word text="attempt" break_level="SPACE_BREAK"/>
   <word text="to" break_level="SPACE_BREAK"/>

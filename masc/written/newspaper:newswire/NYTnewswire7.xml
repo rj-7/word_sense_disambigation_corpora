@@ -674,7 +674,7 @@
   <word text="at" break_level="SPACE_BREAK"/>
   <word text="a" break_level="SPACE_BREAK"/>
   <word text="time" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="Americans" lemma="American" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1221368.003" break_level="SPACE_BREAK"/>
   <word text="are" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.014" break_level="SPACE_BREAK"/>
   <word text="consuming" break_level="SPACE_BREAK"/>
@@ -881,7 +881,7 @@
   <word text="," break_level="NO_BREAK"/>
   <word text="etc." break_level="SPACE_BREAK"/>
   <word text="&#39;&#39;" break_level="NO_BREAK"/>
-  <word text="When" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="PARAGRAPH_BREAK"/>
+  <word text="When" lemma="when" pos="ADV"  break_level="PARAGRAPH_BREAK"/>
   <word text="there" break_level="SPACE_BREAK"/>
   <word text="&#39;s" break_level="NO_BREAK"/>
   <word text="a" break_level="SPACE_BREAK"/>

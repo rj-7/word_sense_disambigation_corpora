@@ -1253,7 +1253,7 @@
   <word text="no" break_level="SPACE_BREAK"/>
   <word text="unified" break_level="SPACE_BREAK"/>
   <word text="``" break_level="SPACE_BREAK"/>
-  <word text="pan-Indian" lemma="pan-Indian" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1275317.002" break_level="NO_BREAK"/>
+  <word text="pan-Indian" lemma="pan-Indian" pos="ADJ"  break_level="NO_BREAK"/>
   <word text="&#39;&#39;" break_level="NO_BREAK"/>
   <word text="sentiments" lemma="sentiment" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1289112.001" break_level="SPACE_BREAK"/>
   <word text=";" break_level="NO_BREAK"/>
@@ -1297,7 +1297,7 @@
   <word text="as" break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="sole" break_level="SPACE_BREAK"/>
-  <word text="pan-Indian" lemma="pan-Indian" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1275317.002" break_level="SPACE_BREAK"/>
+  <word text="pan-Indian" lemma="pan-Indian" pos="ADJ"  break_level="SPACE_BREAK"/>
   <word text="group" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
   <word text="yet" break_level="SPACE_BREAK"/>
@@ -2363,7 +2363,7 @@
   <word text="do" break_level="SPACE_BREAK"/>
   <word text="so" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
-  <word text="When" lemma="when" pos="CONJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.005" break_level="SENTENCE_BREAK"/>
+  <word text="When" lemma="when" pos="CONJ"  break_level="SENTENCE_BREAK"/>
   <word text="a" break_level="SPACE_BREAK"/>
   <word text="punishment" break_level="SPACE_BREAK"/>
   <word text="-" break_level="SPACE_BREAK"/>
@@ -2558,7 +2558,7 @@
   <word text="cabildos" break_level="SPACE_BREAK"/>
   <word text="to" break_level="SPACE_BREAK"/>
   <word text="follow" lemma="follow" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1248194.011" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="CONJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.005" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="CONJ"  break_level="SPACE_BREAK"/>
   <word text="governing" lemma="govern" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1251676.001" break_level="SPACE_BREAK"/>
   <word text="(" break_level="SPACE_BREAK"/>
   <word text="Rappaport" break_level="NO_BREAK"/>

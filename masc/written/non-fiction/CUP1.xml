@@ -316,7 +316,7 @@
   <word text="or" break_level="SPACE_BREAK"/>
   <word text="degradation" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
-  <word text="When" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SENTENCE_BREAK"/>
+  <word text="When" lemma="when" pos="ADV"  break_level="SENTENCE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="displacement" lemma="displacement" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1240931.001" break_level="SPACE_BREAK"/>
   <word text="produces" lemma="produce" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280954.001" break_level="SPACE_BREAK"/>
@@ -342,7 +342,7 @@
   <word text="this" break_level="SPACE_BREAK"/>
   <word text="reach" lemma="reach" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283234.017" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
-  <word text="When" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SENTENCE_BREAK"/>
+  <word text="When" lemma="when" pos="ADV"  break_level="SENTENCE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="displacement" lemma="displacement" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1240931.001" break_level="SPACE_BREAK"/>
   <word text="produces" lemma="produce" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280954.001" break_level="SPACE_BREAK"/>
@@ -2088,7 +2088,7 @@
   <word text="," break_level="NO_BREAK"/>
   <word text="etc." break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="there" break_level="SPACE_BREAK"/>
   <word text="is" break_level="SPACE_BREAK"/>
   <word text="a" break_level="SPACE_BREAK"/>
@@ -6291,7 +6291,7 @@
   <word text="has" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.034" break_level="SPACE_BREAK"/>
   <word text="decreased" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
-  <word text="When" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SENTENCE_BREAK"/>
+  <word text="When" lemma="when" pos="ADV"  break_level="SENTENCE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="main" break_level="SPACE_BREAK"/>
   <word text="river" break_level="SPACE_BREAK"/>
@@ -6741,7 +6741,7 @@
   <word text="reach" lemma="reach" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283234.017" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
   <word text="and" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="this" break_level="SPACE_BREAK"/>
   <word text="increased" break_level="SPACE_BREAK"/>
   <word text="load" lemma="load" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263978.001" break_level="SPACE_BREAK"/>
@@ -7182,7 +7182,7 @@
   <word text="of" break_level="SPACE_BREAK"/>
   <word text="channel" lemma="channel" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1232064.001" break_level="SPACE_BREAK"/>
   <word text="change" lemma="change" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1232051.017" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
   <word text="in" break_level="SPACE_BREAK"/>
   <word text="fact" break_level="SPACE_BREAK"/>
@@ -7334,7 +7334,7 @@
   <word text="must" lemma="must" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1270091.001" break_level="SPACE_BREAK"/>
   <word text="be" break_level="SPACE_BREAK"/>
   <word text="exercised" lemma="exercise" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1245490.007" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="determining" lemma="determine" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1239831.003" break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="tectonic" lemma="tectonic" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1297449.001" break_level="SPACE_BREAK"/>

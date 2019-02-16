@@ -714,7 +714,7 @@
   <word text="late" lemma="late" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1262336.002" break_level="SPACE_BREAK"/>
   <word text="1920s" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="the" break_level="LINE_BREAK"/>
   <word text="Great" break_level="SPACE_BREAK"/>
   <word text="Depression" break_level="SPACE_BREAK"/>
@@ -1504,7 +1504,7 @@
   <word text="next" lemma="next" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1271334.001" break_level="SPACE_BREAK"/>
   <word text="day" lemma="day" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238506.001" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="US" break_level="SPACE_BREAK"/>
   <word text="Steel" break_level="SPACE_BREAK"/>
   <word text="declared" lemma="declare" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1238836.001" break_level="SPACE_BREAK"/>

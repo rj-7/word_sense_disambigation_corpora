@@ -3717,7 +3717,7 @@
   <word text=")" break_level="LINE_BREAK"/>
   <word text="/" break_level="LINE_BREAK"/>
   <word text="/" break_level="NO_BREAK"/>
-  <word text="else" lemma="else" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1243711.003" break_level="SPACE_BREAK"/>
+  <word text="else" lemma="else" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="rotate" break_level="SPACE_BREAK"/>
   <word text="right" lemma="right" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1285123.009" break_level="SPACE_BREAK"/>
   <word text="wheel" lemma="wheel" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305936.001" break_level="SPACE_BREAK"/>
@@ -3726,7 +3726,7 @@
   <word text="portion" break_level="SPACE_BREAK"/>
   <word text="of" break_level="SPACE_BREAK"/>
   <word text="10s" break_level="SPACE_BREAK"/>
-  <word text="else" lemma="else" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1243711.003" break_level="LINE_BREAK"/>
+  <word text="else" lemma="else" pos="ADV"  break_level="LINE_BREAK"/>
   <word text="(" break_level="SPACE_BREAK"/>
   <word text="while" break_level="LINE_BREAK"/>
   <word text="(" break_level="SPACE_BREAK"/>
@@ -3779,7 +3779,7 @@
   <word text="basis" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
   <word text="and" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="combined" lemma="combine" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234640.001" break_level="SPACE_BREAK"/>
   <word text="with" break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>

@@ -614,7 +614,7 @@
   <word text="end" lemma="end" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1244023.001" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
   <word text="but" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="CONJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.005" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="CONJ"  break_level="SPACE_BREAK"/>
   <word text="I" break_level="SPACE_BREAK"/>
   <word text="last" lemma="last" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1262310.010" break_level="SPACE_BREAK"/>
   <word text="saw" break_level="SPACE_BREAK"/>
@@ -713,7 +713,7 @@
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="Astros" break_level="SPACE_BREAK"/>
   <word text="(" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="CONJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.005" break_level="NO_BREAK"/>
+  <word text="when" lemma="when" pos="CONJ"  break_level="NO_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="Braves" break_level="SPACE_BREAK"/>
   <word text="were" break_level="SPACE_BREAK"/>

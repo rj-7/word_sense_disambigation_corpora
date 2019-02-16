@@ -213,7 +213,7 @@
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="late" lemma="late" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1262336.002" break_level="SPACE_BREAK"/>
   <word text="evening" lemma="evening" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1245260.001" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="CONJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.005" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="CONJ"  break_level="SPACE_BREAK"/>
   <word text="the" break_level="LINE_BREAK"/>
   <word text="loft" lemma="loft" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1264113.001" break_level="SPACE_BREAK"/>
   <word text="cools" break_level="SPACE_BREAK"/>

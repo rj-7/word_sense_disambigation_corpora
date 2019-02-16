@@ -166,7 +166,7 @@
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="United" break_level="SPACE_BREAK"/>
   <word text="States" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="I" break_level="SPACE_BREAK"/>
   <word text="was" break_level="SPACE_BREAK"/>
   <word text="just" lemma="just" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1260351.008" break_level="SPACE_BREAK"/>
@@ -203,7 +203,7 @@
   <word text="USA" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
   <word text="but" break_level="LINE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="my" break_level="SPACE_BREAK"/>
   <word text="mother" lemma="mother" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1269377.001" break_level="SPACE_BREAK"/>
   <word text="fell" lemma="fall" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1246101.020" break_level="SPACE_BREAK"/>
@@ -500,7 +500,7 @@
   <word text="in" break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="bank" lemma="bank" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1224757.001" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="his" break_level="SPACE_BREAK"/>
   <word text="sickness" lemma="sickness" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290474.001" break_level="LINE_BREAK"/>
   <word text="became" lemma="become" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225557.001" break_level="SPACE_BREAK"/>
@@ -740,7 +740,7 @@
   <word text="contact" lemma="contact" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1235578.001" break_level="SPACE_BREAK"/>
   <word text="info" break_level="SPACE_BREAK"/>
   <word text="and" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="LINE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="LINE_BREAK"/>
   <word text="I" break_level="SPACE_BREAK"/>
   <word text="did" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>

@@ -1076,7 +1076,7 @@
   <word text="autumn" break_level="LINE_BREAK"/>
   <word text="festivals" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="people" lemma="people" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276782.001" break_level="SPACE_BREAK"/>
   <word text="traditionally" break_level="SPACE_BREAK"/>
   <word text="seek" break_level="SPACE_BREAK"/>
@@ -3896,7 +3896,7 @@
   <word text="Sir" break_level="SPACE_BREAK"/>
   <word text="Matthew" break_level="SPACE_BREAK"/>
   <word text="Nathan" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="he" break_level="SPACE_BREAK"/>
   <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
   <word text="governor" lemma="governor" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1251686.001" break_level="LINE_BREAK"/>
@@ -6966,7 +6966,7 @@
   <word text="begins" lemma="begin" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225705.001" break_level="SPACE_BREAK"/>
   <word text="in" break_level="SPACE_BREAK"/>
   <word text="1513" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="LINE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="LINE_BREAK"/>
   <word text="Portuguese" break_level="SPACE_BREAK"/>
   <word text="explorer" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
@@ -8521,7 +8521,7 @@
   <word text="place" break_level="SPACE_BREAK"/>
   <word text="in" break_level="SPACE_BREAK"/>
   <word text="1999" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="Macau" break_level="SPACE_BREAK"/>
   <word text="became" lemma="become" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225557.001" break_level="LINE_BREAK"/>
   <word text="part" lemma="part" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1275784.009" break_level="SPACE_BREAK"/>
@@ -8814,7 +8814,7 @@
   <word text="Cultural" break_level="SPACE_BREAK"/>
   <word text="Revolution" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="Red" break_level="SPACE_BREAK"/>
   <word text="Guards" break_level="SPACE_BREAK"/>
   <word text="were" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
@@ -10677,7 +10677,7 @@
   <word text="of" break_level="SPACE_BREAK"/>
   <word text="Guangzhou" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="five" break_level="SPACE_BREAK"/>
   <word text="spirits" lemma="spirit" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1293210.001" break_level="SPACE_BREAK"/>
   <word text="rode" lemma="ride" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1285067.001" break_level="LINE_BREAK"/>

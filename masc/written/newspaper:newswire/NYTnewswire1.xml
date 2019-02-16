@@ -263,7 +263,7 @@
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="Reds" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="he" break_level="SPACE_BREAK"/>
   <word text="hit" lemma="hit" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1255154.021" break_level="SPACE_BREAK"/>
   <word text=".316" break_level="SPACE_BREAK"/>

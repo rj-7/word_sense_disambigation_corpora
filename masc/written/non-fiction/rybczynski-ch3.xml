@@ -11,7 +11,7 @@
   <word text="ch3.txt" break_level="NO_BREAK"/>
   <word text="three" break_level="PARAGRAPH_BREAK"/>
   <word text="style" break_level="LINE_BREAK"/>
-  <word text="When" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="PARAGRAPH_BREAK"/>
+  <word text="When" lemma="when" pos="ADV"  break_level="PARAGRAPH_BREAK"/>
   <word text="an" break_level="SPACE_BREAK"/>
   <word text="architectural" break_level="SPACE_BREAK"/>
   <word text="competition" break_level="SPACE_BREAK"/>
@@ -515,7 +515,7 @@
   <word text="Public" break_level="SPACE_BREAK"/>
   <word text="Library" break_level="SPACE_BREAK"/>
   <word text="competition" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="I" break_level="SPACE_BREAK"/>
   <word text="gave" break_level="SPACE_BREAK"/>
   <word text="a" break_level="SPACE_BREAK"/>
@@ -1506,7 +1506,7 @@
   <word text="late" lemma="late" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1262336.002" break_level="SPACE_BREAK"/>
   <word text="1890s" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="both" break_level="SPACE_BREAK"/>
   <word text="architects" break_level="SPACE_BREAK"/>
   <word text="and" break_level="SPACE_BREAK"/>
@@ -3713,7 +3713,7 @@
   <word text="do" break_level="SPACE_BREAK"/>
   <word text="we" break_level="SPACE_BREAK"/>
   <word text="see" lemma="see" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1428150.001" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="we" break_level="SPACE_BREAK"/>
   <word text="look" lemma="look" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1264302.001" break_level="SPACE_BREAK"/>
   <word text="at" break_level="SPACE_BREAK"/>
@@ -8113,7 +8113,7 @@
   <word text="Gehry" break_level="SENTENCE_BREAK"/>
   <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
   <word text="48" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="he" break_level="SPACE_BREAK"/>
   <word text="gained" lemma="gain" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1249783.001" break_level="SPACE_BREAK"/>
   <word text="national" break_level="SPACE_BREAK"/>
@@ -8255,7 +8255,7 @@
   <word text="Hunt" break_level="SENTENCE_BREAK"/>
   <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
   <word text="43" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="he" break_level="SPACE_BREAK"/>
   <word text="came" break_level="SPACE_BREAK"/>
   <word text="into" break_level="SPACE_BREAK"/>

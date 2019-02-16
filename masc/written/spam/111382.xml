@@ -152,7 +152,7 @@
   <word text="he" break_level="SPACE_BREAK"/>
   <word text="instructed" lemma="instruct" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1258404.003" break_level="LINE_BREAK"/>
   <word text="me" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="he" break_level="SPACE_BREAK"/>
   <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
   <word text="at" break_level="SPACE_BREAK"/>

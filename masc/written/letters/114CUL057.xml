@@ -209,7 +209,7 @@
   <word text="we" break_level="SPACE_BREAK"/>
   <word text="will" lemma="will" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1306429.001" break_level="SPACE_BREAK"/>
   <word text="have" lemma="have" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1253820.001" break_level="SPACE_BREAK"/>
-  <word text="soft" lemma="soft" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1292095.018" break_level="SPACE_BREAK"/>
+  <word text="soft" lemma="soft" pos="ADJ"  break_level="SPACE_BREAK"/>
   <word text="drinks" break_level="SPACE_BREAK"/>
   <word text="and" break_level="SPACE_BREAK"/>
   <word text="a" break_level="SPACE_BREAK"/>

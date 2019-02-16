@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE SimpleWsdDoc SYSTEM "/home/rakshith/Word-Sense-Disambiguation-using-LSTM/data/google_data/masc/simple-wsd-doc.dtd">
+<!DOCTYPE SimpleWsdDoc SYSTEM "/home/arvind/Desktop/Word-Sense-Disambiguation-using-LSTM/data/google_data/masc/simple-wsd-doc.dtd">
 <SimpleWsdDoc name="/written/spam/ucb30.txt">
   <word text="/" break_level="NO_BREAK"/>
   <word text="written" break_level="NO_BREAK"/>

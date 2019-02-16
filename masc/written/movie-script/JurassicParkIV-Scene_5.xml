@@ -771,7 +771,7 @@
   <word text="Universal" break_level="SPACE_BREAK"/>
   <word text="in" break_level="SPACE_BREAK"/>
   <word text="L.A." break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="John" break_level="SPACE_BREAK"/>
   <word text="died" lemma="die" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1240230.001" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
@@ -2087,7 +2087,7 @@
   <word text="get" break_level="SPACE_BREAK"/>
   <word text="it" break_level="LINE_BREAK"/>
   <word text="back" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="we" break_level="SPACE_BREAK"/>
   <word text="&#39;re" break_level="NO_BREAK"/>
   <word text="satisfied" break_level="SPACE_BREAK"/>

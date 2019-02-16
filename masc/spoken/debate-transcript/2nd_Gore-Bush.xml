@@ -4903,7 +4903,7 @@
   <word text="We" break_level="SENTENCE_BREAK"/>
   <word text="tried" lemma="try" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1300736.001" break_level="SPACE_BREAK"/>
   <word text="everything" break_level="SPACE_BREAK"/>
-  <word text="else" lemma="else" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1243711.001" break_level="SPACE_BREAK"/>
+  <word text="else" lemma="else" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
   <word text="If" break_level="SENTENCE_BREAK"/>
   <word text="we" break_level="SPACE_BREAK"/>
@@ -11668,7 +11668,7 @@
   <word text="to" break_level="SPACE_BREAK"/>
   <word text="take" lemma="take" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1296844.001" break_level="SPACE_BREAK"/>
   <word text="somebody" lemma="somebody" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1292321.001" break_level="SPACE_BREAK"/>
-  <word text="else" lemma="else" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1243711.002" break_level="SPACE_BREAK"/>
+  <word text="else" lemma="else" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="&#39;s" break_level="NO_BREAK"/>
   <word text="life" lemma="life" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1263339.006" break_level="SPACE_BREAK"/>
   <word text="?" break_level="NO_BREAK"/>
@@ -13518,7 +13518,7 @@
   <word text="of" break_level="SPACE_BREAK"/>
   <word text="those" break_level="SPACE_BREAK"/>
   <word text="have" break_level="SPACE_BREAK"/>
-  <word text="since" lemma="since" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290852.001" break_level="SPACE_BREAK"/>
+  <word text="since" lemma="since" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="gotten" break_level="SPACE_BREAK"/>
   <word text="it" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
@@ -14810,7 +14810,7 @@
   <word text="worse" lemma="worse" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1307169.002" break_level="SPACE_BREAK"/>
   <word text="than" break_level="SPACE_BREAK"/>
   <word text="anywhere" break_level="SPACE_BREAK"/>
-  <word text="else" lemma="else" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1243711.002" break_level="SPACE_BREAK"/>
+  <word text="else" lemma="else" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="and" break_level="SPACE_BREAK"/>
   <word text="their" break_level="SPACE_BREAK"/>
   <word text="people" lemma="people" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276782.001" break_level="SPACE_BREAK"/>

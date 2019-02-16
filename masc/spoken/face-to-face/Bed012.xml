@@ -6863,7 +6863,7 @@
   <word text="." break_level="NO_BREAK"/>
   <word text="Yeah" break_level="SENTENCE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
-  <word text="When" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.001" break_level="SENTENCE_BREAK"/>
+  <word text="When" lemma="when" pos="ADV"  break_level="SENTENCE_BREAK"/>
   <word text="&#39;s" break_level="NO_BREAK"/>
   <word text="Jerry" break_level="SPACE_BREAK"/>
   <word text="leaving" lemma="leave" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1262701.001" break_level="SPACE_BREAK"/>
@@ -7018,7 +7018,7 @@
   <word text="surprise" break_level="SPACE_BREAK"/>
   <word text="him" break_level="SPACE_BREAK"/>
   <word text="with" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.001" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="-" break_level="SPACE_BREAK"/>
   <word text="when" break_level="SPACE_BREAK"/>
   <word text="he" break_level="SPACE_BREAK"/>

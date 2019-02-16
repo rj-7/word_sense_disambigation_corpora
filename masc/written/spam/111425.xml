@@ -129,7 +129,7 @@
   <word text="on" break_level="SPACE_BREAK"/>
   <word text="animal" break_level="SPACE_BREAK"/>
   <word text="extinction" lemma="extinction" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1245743.001" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="i" break_level="SPACE_BREAK"/>
   <word text="came" lemma="come" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234657.009" break_level="SPACE_BREAK"/>
   <word text="across" break_level="LINE_BREAK"/>
@@ -319,7 +319,7 @@
   <word text="," break_level="NO_BREAK"/>
   <word text="or" break_level="SPACE_BREAK"/>
   <word text="whatever" break_level="SPACE_BREAK"/>
-  <word text="else" lemma="else" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1243711.001" break_level="SPACE_BREAK"/>
+  <word text="else" lemma="else" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="would" break_level="SPACE_BREAK"/>
   <word text="be" break_level="SPACE_BREAK"/>
   <word text="appropriate" break_level="SPACE_BREAK"/>

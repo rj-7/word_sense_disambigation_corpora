@@ -1463,7 +1463,7 @@
   <word text="for" break_level="SPACE_BREAK"/>
   <word text="work" lemma="work" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1307050.003" break_level="SPACE_BREAK"/>
   <word text="everyone" break_level="SPACE_BREAK"/>
-  <word text="else" lemma="else" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1243711.002" break_level="SPACE_BREAK"/>
+  <word text="else" lemma="else" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
   <word text="late" lemma="late" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1262336.001" break_level="SPACE_BREAK"/>
   <word text="?" break_level="NO_BREAK"/>
@@ -4256,7 +4256,7 @@
   <word text="with" break_level="SPACE_BREAK"/>
   <word text="widgets" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
-  <word text="Macs" lemma="Mac" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1443009.001" break_level="SENTENCE_BREAK"/>
+  <word text="Macs" lemma="Mac" pos="NOUN"  break_level="SENTENCE_BREAK"/>
   <word text="are" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
   <word text="too" lemma="too" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1299350.001" break_level="SPACE_BREAK"/>
   <word text="cool" lemma="cool" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1235852.008" break_level="SPACE_BREAK"/>
@@ -5602,7 +5602,7 @@
   <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
   <word text="an" break_level="SPACE_BREAK"/>
   <word text="rss" break_level="SPACE_BREAK"/>
-  <word text="feed" lemma="feed" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1246544.019" break_level="SPACE_BREAK"/>
+  <word text="feed" lemma="feed" pos="NOUN"  break_level="SPACE_BREAK"/>
   <word text="powered" break_level="SPACE_BREAK"/>
   <word text="user" lemma="user" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1303233.001" break_level="SPACE_BREAK"/>
   <word text="generated" break_level="SPACE_BREAK"/>
@@ -6362,7 +6362,7 @@
   <word text="Browsing" lemma="browse" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1229064.001" break_level="PARAGRAPH_BREAK"/>
   <word text="through" break_level="SPACE_BREAK"/>
   <word text="my" break_level="SPACE_BREAK"/>
-  <word text="feeds" lemma="feed" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1246544.019" break_level="SPACE_BREAK"/>
+  <word text="feeds" lemma="feed" pos="NOUN"  break_level="SPACE_BREAK"/>
   <word text="Buying" lemma="buy" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1229786.001" break_level="PARAGRAPH_BREAK"/>
   <word text="several" break_level="SPACE_BREAK"/>
   <word text="screwdrivers" lemma="screwdriver" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1288037.001" break_level="SPACE_BREAK"/>
@@ -9012,7 +9012,7 @@
   <word text="this" break_level="SPACE_BREAK"/>
   <word text="final" break_level="SPACE_BREAK"/>
   <word text="Anyone" break_level="PARAGRAPH_BREAK"/>
-  <word text="else" lemma="else" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1243711.002" break_level="SPACE_BREAK"/>
+  <word text="else" lemma="else" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="think" lemma="think" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1298366.001" break_level="SPACE_BREAK"/>
   <word text="Huckabee" break_level="SPACE_BREAK"/>
   <word text="looks" lemma="look" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1264302.013" break_level="SPACE_BREAK"/>

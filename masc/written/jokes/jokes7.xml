@@ -172,7 +172,7 @@
   <word text="drinking" lemma="drink" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242097.001" break_level="SPACE_BREAK"/>
   <word text="a" break_level="SPACE_BREAK"/>
   <word text="beer" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="CONJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.005" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="CONJ"  break_level="SPACE_BREAK"/>
   <word text="he" break_level="SPACE_BREAK"/>
   <word text="hears" break_level="SPACE_BREAK"/>
   <word text="a" break_level="SPACE_BREAK"/>
@@ -181,7 +181,7 @@
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="door" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
-  <word text="When" lemma="when" pos="CONJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.005" break_level="SENTENCE_BREAK"/>
+  <word text="When" lemma="when" pos="CONJ"  break_level="SENTENCE_BREAK"/>
   <word text="he" break_level="SPACE_BREAK"/>
   <word text="opens" lemma="open" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273535.045" break_level="SPACE_BREAK"/>
   <word text="it" break_level="SPACE_BREAK"/>
@@ -282,7 +282,7 @@
   <word text="door" break_level="SPACE_BREAK"/>
   <word text="again" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
-  <word text="When" lemma="when" pos="CONJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.005" break_level="SENTENCE_BREAK"/>
+  <word text="When" lemma="when" pos="CONJ"  break_level="SENTENCE_BREAK"/>
   <word text="he" break_level="SPACE_BREAK"/>
   <word text="opens" lemma="open" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273535.045" break_level="SPACE_BREAK"/>
   <word text="it" break_level="SPACE_BREAK"/>
@@ -698,7 +698,7 @@
   <word text="incomprehensible" break_level="SPACE_BREAK"/>
   <word text="to" break_level="SPACE_BREAK"/>
   <word text="everyone" break_level="SPACE_BREAK"/>
-  <word text="else" lemma="else" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1243711.002" break_level="SPACE_BREAK"/>
+  <word text="else" lemma="else" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text=";" break_level="NO_BREAK"/>
   <word text="3" break_level="LINE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
@@ -964,7 +964,7 @@
   <word text="!" break_level="NO_BREAK"/>
   <word text="&#39;&#39;" break_level="NO_BREAK"/>
   <word text="``" break_level="LINE_BREAK"/>
-  <word text="When" lemma="when" pos="CONJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.005" break_level="NO_BREAK"/>
+  <word text="When" lemma="when" pos="CONJ"  break_level="NO_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
   <word text="come" lemma="come" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234657.001" break_level="SPACE_BREAK"/>
   <word text="in" lemma="in" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1257425.012" break_level="SPACE_BREAK"/>
@@ -1336,7 +1336,7 @@
   <word text="``" break_level="SPACE_BREAK"/>
   <word text="Bobby" break_level="NO_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="when" lemma="when" pos="CONJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.005" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="CONJ"  break_level="SPACE_BREAK"/>
   <word text="I" break_level="SPACE_BREAK"/>
   <word text="as" break_level="SPACE_BREAK"/>
   <word text="a" break_level="SPACE_BREAK"/>

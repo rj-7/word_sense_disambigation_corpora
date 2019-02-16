@@ -306,7 +306,7 @@
   <word text="unclear" break_level="SPACE_BREAK"/>
   <word text="as" break_level="SPACE_BREAK"/>
   <word text="to" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="macro" lemma="macro" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1265132.003" break_level="SPACE_BREAK"/>
   <word text="processing" lemma="process" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280909.001" break_level="SPACE_BREAK"/>
   <word text="is" break_level="SPACE_BREAK"/>

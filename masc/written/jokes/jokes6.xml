@@ -15,7 +15,7 @@
   <word text="." break_level="NO_BREAK"/>
   <word text="1" break_level="PARAGRAPH_BREAK"/>
   <word text="-" break_level="NO_BREAK"/>
-  <word text="When" lemma="when" pos="CONJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.005" break_level="SPACE_BREAK"/>
+  <word text="When" lemma="when" pos="CONJ"  break_level="SPACE_BREAK"/>
   <word text="computing" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
   <word text="whatever" break_level="SPACE_BREAK"/>
@@ -32,7 +32,7 @@
   <word text="." break_level="NO_BREAK"/>
   <word text="2" break_level="PARAGRAPH_BREAK"/>
   <word text="-" break_level="NO_BREAK"/>
-  <word text="When" lemma="when" pos="CONJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.005" break_level="SPACE_BREAK"/>
+  <word text="When" lemma="when" pos="CONJ"  break_level="SPACE_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
   <word text="get" lemma="get" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1250696.019" break_level="SPACE_BREAK"/>
   <word text="to" break_level="SPACE_BREAK"/>
@@ -77,7 +77,7 @@
   <word text="." break_level="NO_BREAK"/>
   <word text="4" break_level="SENTENCE_BREAK"/>
   <word text="-" break_level="NO_BREAK"/>
-  <word text="When" lemma="when" pos="CONJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.005" break_level="SPACE_BREAK"/>
+  <word text="When" lemma="when" pos="CONJ"  break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="going" break_level="SPACE_BREAK"/>
   <word text="gets" lemma="get" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1250696.019" break_level="SPACE_BREAK"/>
@@ -219,7 +219,7 @@
   <word text="ORDER" lemma="order" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273820.008" break_level="SPACE_BREAK"/>
   <word text="!" break_level="NO_BREAK"/>
   <word text="&#39;&#39;" break_level="NO_BREAK"/>
-  <word text="When" lemma="when" pos="CONJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.005" break_level="SENTENCE_BREAK"/>
+  <word text="When" lemma="when" pos="CONJ"  break_level="SENTENCE_BREAK"/>
   <word text="his" break_level="SPACE_BREAK"/>
   <word text="waitress" break_level="SPACE_BREAK"/>
   <word text="arrives" break_level="SPACE_BREAK"/>
@@ -349,7 +349,7 @@
   <word text="do" lemma="do" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241237.035" break_level="SPACE_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
   <word text="remember" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="we" break_level="SPACE_BREAK"/>
   <word text="first" break_level="SPACE_BREAK"/>
   <word text="started" lemma="start" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1293930.001" break_level="SPACE_BREAK"/>
@@ -1015,7 +1015,7 @@
   <word text="at" break_level="SPACE_BREAK"/>
   <word text="all" lemma="all" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1220974.009" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
-  <word text="When" lemma="when" pos="CONJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.005" break_level="SENTENCE_BREAK"/>
+  <word text="When" lemma="when" pos="CONJ"  break_level="SENTENCE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="going" break_level="SPACE_BREAK"/>
   <word text="gets" lemma="get" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1250696.019" break_level="SPACE_BREAK"/>
@@ -1669,7 +1669,7 @@
   <word text="number" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
   <word text="and" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="CONJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.005" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="CONJ"  break_level="SPACE_BREAK"/>
   <word text="a" break_level="SPACE_BREAK"/>
   <word text="violent" break_level="SPACE_BREAK"/>
   <word text="voice" lemma="voice" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1304594.001" break_level="SPACE_BREAK"/>

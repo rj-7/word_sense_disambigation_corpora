@@ -2012,7 +2012,7 @@
   <word text="." break_level="NO_BREAK"/>
   <word text="Now" break_level="SENTENCE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="when" lemma="when" pos="CONJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.005" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="CONJ"  break_level="SPACE_BREAK"/>
   <word text="they" break_level="SPACE_BREAK"/>
   <word text="set" lemma="set" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1289370.016" break_level="SPACE_BREAK"/>
   <word text="up" break_level="SPACE_BREAK"/>
@@ -2151,7 +2151,7 @@
   <word text="," break_level="NO_BREAK"/>
   <word text="``" break_level="SPACE_BREAK"/>
   <word text="then" lemma="then" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1298166.001" break_level="NO_BREAK"/>
-  <word text="when" lemma="when" pos="CONJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.005" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="CONJ"  break_level="SPACE_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
   <word text="&#39;ve" break_level="NO_BREAK"/>
   <word text="collected" lemma="collect" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234429.001" break_level="SPACE_BREAK"/>
@@ -2179,7 +2179,7 @@
   <word text="was" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.014" break_level="SPACE_BREAK"/>
   <word text="proceeding" break_level="SPACE_BREAK"/>
   <word text="furiously" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="CONJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.008" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="CONJ"  break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="auctioneer" break_level="SPACE_BREAK"/>
   <word text="suddenly" break_level="SPACE_BREAK"/>
@@ -2288,7 +2288,7 @@
   <word text="rang" lemma="ring" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1285212.001" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
   <word text="and" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="CONJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.005" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="CONJ"  break_level="SPACE_BREAK"/>
   <word text="I" break_level="SPACE_BREAK"/>
   <word text="opened" lemma="open" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273535.045" break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
@@ -2489,7 +2489,7 @@
   <word text="cross" lemma="cross" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1237199.017" break_level="SPACE_BREAK"/>
   <word text="your" break_level="SPACE_BREAK"/>
   <word text="bridges" lemma="bridge" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1228738.001" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="CONJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.005" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="CONJ"  break_level="SPACE_BREAK"/>
   <word text="you" break_level="SPACE_BREAK"/>
   <word text="come" lemma="come" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234657.001" break_level="SPACE_BREAK"/>
   <word text="to" break_level="SPACE_BREAK"/>
@@ -3093,7 +3093,7 @@
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="little" break_level="SPACE_BREAK"/>
   <word text="buffalo" lemma="buffalo" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1229265.001" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="CONJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.005" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="CONJ"  break_level="SPACE_BREAK"/>
   <word text="he" break_level="SPACE_BREAK"/>
   <word text="went" lemma="go" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1251252.001" break_level="SPACE_BREAK"/>
   <word text="off" break_level="SPACE_BREAK"/>

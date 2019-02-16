@@ -113,7 +113,7 @@
   <word text="go" break_level="SPACE_BREAK"/>
   <word text="deep" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
-  <word text="When" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SENTENCE_BREAK"/>
+  <word text="When" lemma="when" pos="ADV"  break_level="SENTENCE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="AMC" break_level="SPACE_BREAK"/>
   <word text="was" break_level="SPACE_BREAK"/>

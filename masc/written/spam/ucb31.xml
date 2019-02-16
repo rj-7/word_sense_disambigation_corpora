@@ -121,7 +121,7 @@
   <word text="-" break_level="NO_BREAK"/>
   <word text="it" break_level="NO_BREAK"/>
   <word text="-" break_level="NO_BREAK"/>
-  <word text="yourself" lemma="yourself" pos="PRON" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1307803.002" break_level="NO_BREAK"/>
+  <word text="yourself" lemma="yourself" pos="PRON"  break_level="NO_BREAK"/>
   <word text="projects" lemma="project" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1281039.001" break_level="SPACE_BREAK"/>
   <word text=":" break_level="NO_BREAK"/>
   <word text="Which" break_level="SENTENCE_BREAK"/>
@@ -775,7 +775,7 @@
   <word text="-" break_level="NO_BREAK"/>
   <word text="6033" break_level="NO_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
-  <word text="When" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="PARAGRAPH_BREAK"/>
+  <word text="When" lemma="when" pos="ADV"  break_level="PARAGRAPH_BREAK"/>
   <word text="registering" lemma="register" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283939.013" break_level="SPACE_BREAK"/>
   <word text="by" break_level="SPACE_BREAK"/>
   <word text="phone" lemma="phone" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1277599.001" break_level="SPACE_BREAK"/>
@@ -877,7 +877,7 @@
   <word text="PA" break_level="SPACE_BREAK"/>
   <word text="19355" break_level="SPACE_BREAK"/>
   <word text="P.S." break_level="PARAGRAPH_BREAK"/>
-  <word text="When" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="When" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="registering" lemma="register" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283939.013" break_level="SPACE_BREAK"/>
   <word text="by" break_level="SPACE_BREAK"/>
   <word text="phone" lemma="phone" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1277599.001" break_level="SPACE_BREAK"/>
@@ -889,7 +889,7 @@
   <word text="Code" lemma="code" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234174.001" break_level="SPACE_BREAK"/>
   <word text=":" break_level="NO_BREAK"/>
   <word text="90791" break_level="SPACE_BREAK"/>
-  <word text="When" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="PARAGRAPH_BREAK"/>
+  <word text="When" lemma="when" pos="ADV"  break_level="PARAGRAPH_BREAK"/>
   <word text="registering" lemma="register" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1283939.013" break_level="SPACE_BREAK"/>
   <word text="by" break_level="SPACE_BREAK"/>
   <word text="phone" lemma="phone" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1277599.001" break_level="SPACE_BREAK"/>

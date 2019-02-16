@@ -600,7 +600,7 @@
   <word text="be" break_level="SPACE_BREAK"/>
   <word text="found" lemma="find" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1247107.008" break_level="SPACE_BREAK"/>
   <word text="anywhere" break_level="SPACE_BREAK"/>
-  <word text="else" lemma="else" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1243711.002" break_level="SPACE_BREAK"/>
+  <word text="else" lemma="else" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="!" break_level="NO_BREAK"/>
   <word text="As" break_level="SENTENCE_BREAK"/>
   <word text="an" break_level="SPACE_BREAK"/>

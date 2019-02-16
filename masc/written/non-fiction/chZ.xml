@@ -643,7 +643,7 @@
   <word text="on" break_level="SPACE_BREAK"/>
   <word text="Los" break_level="SPACE_BREAK"/>
   <word text="Angeles" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="gangs" lemma="gang" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1249992.001" break_level="SPACE_BREAK"/>
   <word text="of" break_level="SPACE_BREAK"/>
   <word text="sailors" break_level="SPACE_BREAK"/>

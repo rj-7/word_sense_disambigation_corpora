@@ -307,7 +307,7 @@
   <word text="three" break_level="SPACE_BREAK"/>
   <word text="years" lemma="year" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1307589.002" break_level="LINE_BREAK"/>
   <word text="ago" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="we" break_level="SPACE_BREAK"/>
   <word text="scheduled" break_level="SPACE_BREAK"/>
   <word text="that" break_level="SPACE_BREAK"/>

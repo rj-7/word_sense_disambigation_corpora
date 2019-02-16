@@ -182,7 +182,7 @@
   <word text="candidates" break_level="SPACE_BREAK"/>
   <word text="or" break_level="SPACE_BREAK"/>
   <word text="anyone" break_level="SPACE_BREAK"/>
-  <word text="else" lemma="else" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1243711.002" break_level="SPACE_BREAK"/>
+  <word text="else" lemma="else" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="what" break_level="SPACE_BREAK"/>
   <word text="they" break_level="SPACE_BREAK"/>
   <word text="are" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
@@ -329,7 +329,7 @@
   <word text="right" lemma="right" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1285123.014" break_level="SPACE_BREAK"/>
   <word text="now" lemma="now" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1272258.001" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.001" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="they" break_level="SPACE_BREAK"/>
   <word text="join" break_level="SPACE_BREAK"/>
   <word text="me" break_level="SPACE_BREAK"/>
@@ -5328,7 +5328,7 @@
   <word text="or" break_level="SPACE_BREAK"/>
   <word text="vice" break_level="SPACE_BREAK"/>
   <word text="versa" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.001" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="they" break_level="SPACE_BREAK"/>
   <word text="finally" break_level="SPACE_BREAK"/>
   <word text="sort" break_level="SPACE_BREAK"/>
@@ -15108,7 +15108,7 @@
   <word text="," break_level="NO_BREAK"/>
   <word text="but" break_level="SPACE_BREAK"/>
   <word text="to" break_level="SPACE_BREAK"/>
-  <word text="unbundle" lemma="unbundle" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1301682.001" break_level="SPACE_BREAK"/>
+  <word text="unbundle" lemma="unbundle" pos="VERB"  break_level="SPACE_BREAK"/>
   <word text="government" lemma="government" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1251680.001" break_level="SPACE_BREAK"/>
   <word text="contracts" break_level="SPACE_BREAK"/>
   <word text="so" break_level="SPACE_BREAK"/>

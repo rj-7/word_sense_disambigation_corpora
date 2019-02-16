@@ -47,7 +47,7 @@
   <word text="Last" lemma="last" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1262310.005" break_level="SENTENCE_BREAK"/>
   <word text="week" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="Lewinsky" break_level="SPACE_BREAK"/>
   <word text="story" lemma="story" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1294727.001" break_level="SPACE_BREAK"/>
@@ -230,7 +230,7 @@
   <word text="1992" break_level="SPACE_BREAK"/>
   <word text="campaign" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="Gennifer" break_level="SPACE_BREAK"/>
   <word text="Flowers" break_level="SPACE_BREAK"/>
   <word text="first" break_level="SPACE_BREAK"/>
@@ -268,7 +268,7 @@
   <word text="Flowers" break_level="SPACE_BREAK"/>
   <word text="and" break_level="SPACE_BREAK"/>
   <word text="anyone" break_level="SPACE_BREAK"/>
-  <word text="else" lemma="else" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1243711.002" break_level="SPACE_BREAK"/>
+  <word text="else" lemma="else" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="who" break_level="SPACE_BREAK"/>
   <word text="tried" lemma="try" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1300736.001" break_level="SPACE_BREAK"/>
   <word text="to" break_level="SPACE_BREAK"/>
@@ -592,7 +592,7 @@
   <word text="York" break_level="SPACE_BREAK"/>
   <word text="Times" break_level="SPACE_BREAK"/>
   <word text="." break_level="SPACE_BREAK"/>
-  <word text="When" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SENTENCE_BREAK"/>
+  <word text="When" lemma="when" pos="ADV"  break_level="SENTENCE_BREAK"/>
   <word text="Democrats" lemma="democrat" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1239326.002" break_level="SPACE_BREAK"/>
   <word text="wonder" lemma="wonder" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1306888.006" break_level="LINE_BREAK"/>
   <word text="why" break_level="SPACE_BREAK"/>

@@ -340,7 +340,7 @@
   <word text="Collector" lemma="collector" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234445.001" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
   <word text="``" break_level="SENTENCE_BREAK"/>
-  <word text="When" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="NO_BREAK"/>
+  <word text="When" lemma="when" pos="ADV"  break_level="NO_BREAK"/>
   <word text="I" break_level="SPACE_BREAK"/>
   <word text="see" lemma="see" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1428150.001" break_level="SPACE_BREAK"/>
   <word text="prints" lemma="print" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1280773.020" break_level="SPACE_BREAK"/>

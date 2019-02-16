@@ -173,7 +173,7 @@
   <word text="to" break_level="SPACE_BREAK"/>
   <word text="benefit" break_level="SPACE_BREAK"/>
   <word text="shareholders" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="``" break_level="SPACE_BREAK"/>
   <word text="the" break_level="NO_BREAK"/>
   <word text="company" lemma="company" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234891.001" break_level="SPACE_BREAK"/>

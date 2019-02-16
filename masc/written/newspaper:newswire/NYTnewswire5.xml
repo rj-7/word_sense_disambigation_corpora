@@ -249,7 +249,7 @@
   <word text="bright" lemma="bright" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1228776.001" break_level="SPACE_BREAK"/>
   <word text="orange" lemma="orange" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273770.005" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
-  <word text="When" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SENTENCE_BREAK"/>
+  <word text="When" lemma="when" pos="ADV"  break_level="SENTENCE_BREAK"/>
   <word text="young" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>
@@ -401,7 +401,7 @@
   <word text="favorite" break_level="SPACE_BREAK"/>
   <word text="seasoning" lemma="seasoning" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1288315.001" break_level="LINE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
-  <word text="When" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SENTENCE_BREAK"/>
+  <word text="When" lemma="when" pos="ADV"  break_level="SENTENCE_BREAK"/>
   <word text="pickled" break_level="SPACE_BREAK"/>
   <word text="," break_level="NO_BREAK"/>
   <word text="bitter" lemma="bitter" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1226793.001" break_level="SPACE_BREAK"/>

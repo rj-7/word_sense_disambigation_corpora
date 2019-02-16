@@ -451,7 +451,7 @@
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="same" lemma="same" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1286917.001" break_level="SPACE_BREAK"/>
   <word text="genius" break_level="SPACE_BREAK"/>
-  <word text="quants" lemma="quant" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1282290.001" break_level="SPACE_BREAK"/>
+  <word text="quants" lemma="quant" pos="NOUN"  break_level="SPACE_BREAK"/>
   <word text="who" break_level="SPACE_BREAK"/>
   <word text="gave" lemma="give" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1250951.015" break_level="LINE_BREAK"/>
   <word text="us" break_level="SPACE_BREAK"/>
@@ -787,7 +787,7 @@
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="same" lemma="same" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1286917.001" break_level="SPACE_BREAK"/>
   <word text="genius" break_level="SPACE_BREAK"/>
-  <word text="quants" lemma="quant" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1282290.001" break_level="LINE_BREAK"/>
+  <word text="quants" lemma="quant" pos="NOUN"  break_level="LINE_BREAK"/>
   <word text="who" break_level="SPACE_BREAK"/>
   <word text="gave" lemma="give" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1250951.015" break_level="SPACE_BREAK"/>
   <word text="us" break_level="SPACE_BREAK"/>
@@ -936,7 +936,7 @@
   <word text="Brad" break_level="SPACE_BREAK"/>
   <word text="Templeton" break_level="SPACE_BREAK"/>
   <word text=":" break_level="NO_BREAK"/>
-  <word text="When" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SENTENCE_BREAK"/>
+  <word text="When" lemma="when" pos="ADV"  break_level="SENTENCE_BREAK"/>
   <word text="I" break_level="SPACE_BREAK"/>
   <word text="got" lemma="get" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1250696.019" break_level="SPACE_BREAK"/>
   <word text="to" break_level="SPACE_BREAK"/>
@@ -1072,7 +1072,7 @@
   <word text="." break_level="NO_BREAK"/>
   <word text="Paying" lemma="pay" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276209.001" break_level="SENTENCE_BREAK"/>
   <word text="someone" break_level="SPACE_BREAK"/>
-  <word text="else" lemma="else" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1243711.002" break_level="SPACE_BREAK"/>
+  <word text="else" lemma="else" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="to" break_level="LINE_BREAK"/>
   <word text="do" lemma="do" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1241237.001" break_level="SPACE_BREAK"/>
   <word text="something" break_level="SPACE_BREAK"/>
@@ -1103,7 +1103,7 @@
   <word text="on" break_level="SPACE_BREAK"/>
   <word text="paying" lemma="pay" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1276209.001" break_level="SPACE_BREAK"/>
   <word text="someone" break_level="SPACE_BREAK"/>
-  <word text="else" lemma="else" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1243711.002" break_level="SPACE_BREAK"/>
+  <word text="else" lemma="else" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="to" break_level="SPACE_BREAK"/>
   <word text="consume" break_level="SPACE_BREAK"/>
   <word text="less" break_level="LINE_BREAK"/>
@@ -1288,7 +1288,7 @@
   <word text="Lessig" break_level="SPACE_BREAK"/>
   <word text="or" break_level="SPACE_BREAK"/>
   <word text="anyone" break_level="LINE_BREAK"/>
-  <word text="else" lemma="else" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1243711.002" break_level="SPACE_BREAK"/>
+  <word text="else" lemma="else" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="to" break_level="SPACE_BREAK"/>
   <word text="offset" lemma="offset" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1273022.010" break_level="SPACE_BREAK"/>
   <word text="his" break_level="SPACE_BREAK"/>

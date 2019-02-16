@@ -1225,7 +1225,7 @@
   <word text="hm" break_level="PARAGRAPH_BREAK"/>
   <word text="well" break_level="SPACE_BREAK"/>
   <word text="what" break_level="SPACE_BREAK"/>
-  <word text="else" lemma="else" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1243711.001" break_level="SPACE_BREAK"/>
+  <word text="else" lemma="else" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="i" break_level="PARAGRAPH_BREAK"/>
   <word text="believe" lemma="believe" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225789.005" break_level="SPACE_BREAK"/>
   <word text="we" break_level="SPACE_BREAK"/>

@@ -71,7 +71,7 @@
   <word text="trials" lemma="trial" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1300233.002" break_level="SPACE_BREAK"/>
   <word text="found" lemma="find" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1247107.008" break_level="SPACE_BREAK"/>
   <word text="that" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="compared" lemma="compare" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234902.001" break_level="SPACE_BREAK"/>
   <word text="with" break_level="SPACE_BREAK"/>
   <word text="placebo" break_level="LINE_BREAK"/>
@@ -698,7 +698,7 @@
   <word text="significantly" lemma="significantly" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1428620.001" break_level="SPACE_BREAK"/>
   <word text="lower" break_level="SPACE_BREAK"/>
   <word text="mortality" lemma="mortality" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1269291.002" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="initiated" lemma="initiate" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1258139.001" break_level="LINE_BREAK"/>
   <word text="early" lemma="early" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1242798.007" break_level="SPACE_BREAK"/>
   <word text="after" break_level="SPACE_BREAK"/>
@@ -1075,7 +1075,7 @@
   <word text="other" lemma="other" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1274198.004" break_level="SPACE_BREAK"/>
   <word text="adverse" break_level="SPACE_BREAK"/>
   <word text="events" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="LINE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="LINE_BREAK"/>
   <word text="initiated" lemma="initiate" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1258139.001" break_level="SPACE_BREAK"/>
   <word text="soon" lemma="soon" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1292395.001" break_level="SPACE_BREAK"/>
   <word text="after" break_level="SPACE_BREAK"/>
@@ -1345,7 +1345,7 @@
   <word text="syndromes" break_level="SPACE_BREAK"/>
   <word text="fair" break_level="SPACE_BREAK"/>
   <word text="better" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="an" break_level="LINE_BREAK"/>
   <word text="early" break_level="SPACE_BREAK"/>
   <word text="invasive" break_level="SPACE_BREAK"/>
@@ -1705,7 +1705,7 @@
   <word text="term" lemma="term" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1297843.004" break_level="NO_BREAK"/>
   <word text="clinical" lemma="clinical" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1233733.002" break_level="LINE_BREAK"/>
   <word text="benefits" lemma="benefit" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225926.001" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="initiated" lemma="initiate" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1258139.001" break_level="SPACE_BREAK"/>
   <word text="soon" lemma="soon" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1292395.001" break_level="SPACE_BREAK"/>
   <word text="after" break_level="SPACE_BREAK"/>
@@ -1803,7 +1803,7 @@
   <word text="agents" lemma="agent" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1220395.005" break_level="SPACE_BREAK"/>
   <word text="are" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.008" break_level="SPACE_BREAK"/>
   <word text="safe" lemma="safe" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1286587.001" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="initiated" lemma="initiate" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1258139.001" break_level="SPACE_BREAK"/>
   <word text="at" break_level="SPACE_BREAK"/>
   <word text="the" break_level="SPACE_BREAK"/>

@@ -435,7 +435,7 @@
   <word text="same" lemma="same" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1286917.001" break_level="SPACE_BREAK"/>
   <word text="time" lemma="time" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1298880.023" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
-  <word text="When" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SENTENCE_BREAK"/>
+  <word text="When" lemma="when" pos="ADV"  break_level="SENTENCE_BREAK"/>
   <word text="we" break_level="SPACE_BREAK"/>
   <word text="spoke" lemma="speak" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1292860.001" break_level="SPACE_BREAK"/>
   <word text="on" break_level="SPACE_BREAK"/>
@@ -1292,7 +1292,7 @@
   <word text="is" lemma="be" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1225404.001" break_level="SPACE_BREAK"/>
   <word text="anythi" break_level="SPACE_BREAK"/>
   <word text="ng" break_level="LINE_BREAK"/>
-  <word text="else" lemma="else" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1243711.001" break_level="LINE_BREAK"/>
+  <word text="else" lemma="else" pos="ADV"  break_level="LINE_BREAK"/>
   <word text="that" break_level="SPACE_BREAK"/>
   <word text="I" break_level="SPACE_BREAK"/>
   <word text="can" lemma="can" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1230339.001" break_level="SPACE_BREAK"/>
@@ -1561,7 +1561,7 @@
   <word text="the" break_level="SPACE_BREAK"/>
   <word text="utilities" lemma="utility" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1303285.003" break_level="SPACE_BREAK"/>
   <word text="face" lemma="face" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1245912.017" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="interconnecting" break_level="LINE_BREAK"/>
   <word text="generation" lemma="generation" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1250445.005" break_level="SPACE_BREAK"/>
   <word text="facilities" lemma="facility" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1245945.001" break_level="SPACE_BREAK"/>
@@ -3798,7 +3798,7 @@
   <word text="competitive" lemma="competitive" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1234933.001" break_level="SPACE_BREAK"/>
   <word text="retail" break_level="SPACE_BREAK"/>
   <word text="market" lemma="market" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1266136.003" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="the" break_level="LINE_BREAK"/>
   <word text="utility" lemma="utility" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1303285.003" break_level="SPACE_BREAK"/>
   <word text="is" break_level="SPACE_BREAK"/>
@@ -4104,7 +4104,7 @@
   <word text="risk" break_level="SPACE_BREAK"/>
   <word text="they" break_level="SPACE_BREAK"/>
   <word text="accepted" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.004" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="they" break_level="SPACE_BREAK"/>
   <word text="agreed" lemma="agree" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1220472.003" break_level="SPACE_BREAK"/>
   <word text="to" break_level="SPACE_BREAK"/>

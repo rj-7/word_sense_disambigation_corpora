@@ -664,7 +664,7 @@
   <word text="new" lemma="new" pos="ADJ" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1271187.007" break_level="LINE_BREAK"/>
   <word text="time" break_level="SPACE_BREAK"/>
   <word text="zone" lemma="zone" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1308096.001" break_level="SPACE_BREAK"/>
-  <word text="when" lemma="when" pos="ADV" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1305963.001" break_level="SPACE_BREAK"/>
+  <word text="when" lemma="when" pos="ADV"  break_level="SPACE_BREAK"/>
   <word text="traveling" lemma="travel" pos="VERB" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1300074.001" break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
   <word text="Alternatively" break_level="SENTENCE_BREAK"/>

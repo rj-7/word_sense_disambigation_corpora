@@ -203,7 +203,7 @@
   <word text="your" break_level="SPACE_BREAK"/>
   <word text="family" lemma="family" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1246175.001" break_level="LINE_BREAK"/>
   <word text="&#39;s" break_level="NO_BREAK"/>
-  <word text="Amen" lemma="amen" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1221355.003" break_level="SPACE_BREAK"/>
+  <word text="Amen" lemma="amen" pos="NOUN"  break_level="SPACE_BREAK"/>
   <word text="." break_level="NO_BREAK"/>
   <word text="Your" break_level="SENTENCE_BREAK"/>
   <word text="Sister" lemma="sister" pos="NOUN" sense="/dictionary/sense/en_us_NOAD3e_2012/m_en_us1290992.001" break_level="SPACE_BREAK"/>
